@@ -63,10 +63,11 @@ An Archive Of Every Cosmic Reach Version
 - only fixes the crouching on slabs, so don't be too alarmed!
 
 ## 0.0.4
-- unknown
+- Code cleanup
+- Update chunk-water shader
 
 ## 0.0.3
-- unknown
+- Adds more error catching/logging to code
 
 ## 0.0.2
 - unknown
