@@ -73,7 +73,7 @@ An Archive Of Every Cosmic Reach Version
 - Adds more error catching/logging to code
 
 ## 0.0.2
-- unknown
+- Fixed no block destruction cool-down while in the inventory
 
 ## 0.0.1
 - Game Release
