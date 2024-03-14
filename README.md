@@ -20,47 +20,50 @@ An Archive Of Every Cosmic Reach Version
 
 ## 0.1.2
 - Pressing screenshot will notify you the file name
-- Removing mods no longer corrupts the world! Feel free to add and remove mods as you wish!
+- Removing mods no longer corrupts the world
 - Added world selection screen
 - Inventory no longer duplicates items across pages
 - Improved the default mouse sensitivity for wide screen resolutions
 
 ## 0.1.1
-- Small hotfix that fixes the last item in the item catalog being unable to be added to the hotbar
+- Fixed the last item in the item catalog being unable to be added to the hotbar
 
 ## 0.1.0
-- Adds packed lunar soil (like the slabs in the devlog)
+- Adds packed lunar soil
 - The blocks.png is overwritten at runtime, all block textures are separate files
 
 ## 0.0.14
-- fixes the last item in the catalog being omitted, I will avoid hotfixes until the modular texture feature is added
+- Fixes the last item in the catalog being omitted
 
 ## 0.0.13
-- is out, fixes the inventory buttons not closing + the water shader ruining the UI when escaped
+- Fixed the inventory buttons not closing
+- Fixed the water shader ruining the UI when escaped
 
 ## 0.0.12
-- inventory slot fixes (unsure)
+- Fixed inventory slot bugs (unsure)
 
 ## 0.0.11
 - unknown
 
 ## 0.0.10
-- is up- inventory pages + light slabs
+- Inventory pages
+- Light slabs
 
 ## 0.0.9
-- is out, fixes the last-transparent-block bug
+- Fixed the last-transparent-block bug
 
 ## 0.0.8
-- is out! It might fix the menu F1 bug, and shaders can now use an #import preprocessor
+- Fixed the menu F1 bug
+- Shaders can now use an #import preprocessor
 
 ## 0.0.7
-- fixes alt-tabbing ruining the player file
+- Fixed alt-tabbing ruining the player file
 
 ## 0.0.6
-- allows all assets to be loaded from the mods folder
+- Allows all assets to be loaded from the mods folder
 
 ## 0.0.5
-- only fixes the crouching on slabs, so don't be too alarmed!
+- Fixed crouching on slabs
 
 ## 0.0.4
 - Code cleanup
