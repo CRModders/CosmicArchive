@@ -43,7 +43,7 @@ An Archive Of Every Cosmic Reach Version
 - Fixed inventory slot bugs (unsure)
 
 ## 0.0.11
-- unknown
+- Skipped Version
 
 ## 0.0.10
 - Inventory pages
