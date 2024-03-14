@@ -74,6 +74,7 @@ An Archive Of Every Cosmic Reach Version
 
 ## 0.0.2
 - Fixed no block destruction cool-down while in the inventory
+- Added basic mod support
 
 ## 0.0.1
 - Game Release
