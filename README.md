@@ -3,6 +3,12 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelog
 
+## 0.1.6
+- Added mouse sensitivity, FOV, and render distance sliders
+- More work done towards mac support + a warning message that macs are not yet supported
+- Selecting a block now takes into account its shape, not just its position
+- Introduced the catalogHidden field for block states, hiding them from the item catalog by default
+
 ## 0.1.5
 - Reverted the atlas size change
 
