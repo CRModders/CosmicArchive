@@ -5,11 +5,33 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelog
 
+## 0.1.7
+- Added C4
+- All lights can toggle on interact now
+- Fixed bug where light slabs being toggled would turn into full blocks
+- Introduced new block event trigger: onExplode
+- Introduced new block event action: base:explode
+- Introduced new block event action: base:set_block_state_params
+
+## 0.1.5d
+- Changes to mesh and shader code specifically for MacOS
+
+## 0.1.6b
+- Vsync is no longer activated by default. On/Off option should properly toggle Vsync now
+- Partial MacOS Support
+
 ## 0.1.6
 - Added mouse sensitivity, FOV, and render distance sliders
 - More work done towards mac support + a warning message that macs are not yet supported
 - Selecting a block now takes into account its shape, not just its position
 - Introduced the catalogHidden field for block states, hiding them from the item catalog by default
+
+## 0.1.5c
+- Fixed invisible world
+- Partial MacOS Support
+
+## 0.1.5b
+- Partial MacOS Support
 
 ## 0.1.5
 - Reverted the atlas size change
