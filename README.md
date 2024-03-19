@@ -5,6 +5,11 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelog
 
+## 0.1.9
+- Fixed vertical slab placement when not placing on the ground
+- Fixed worlds not unloading on going to main menu
+- Fixed bug where open directory would go to the containing folder on windows
+
 ## 0.1.8
 - Added aluminium panels
 - Slabs can now be orientated depending on placement position
