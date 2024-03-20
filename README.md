@@ -15,7 +15,7 @@ An Archive Of Every Cosmic Reach Version
 - Slabs can now be orientated depending on placement position
 - Removed debug printing from explosions, reducing lag
 - Reduced stuttering at larger render distances
-- Fixed bug on windows where the open directory buttons wouldn't open (Testers wanted!)
+- Fixed bug on windows where the open directory buttons wouldn't open
 - Fixed bug where non-english characters would crash the game
 
 ## 0.1.7
