@@ -5,17 +5,30 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelog
 
+## 0.1.11
+- Reverted the atlas size change.
+- Reverted the UV texture precision.
+
+## 0.1.10
+- Increased the runtime texture atlas size for blocks from 256x to 1024x.
+- Increased UV texture precision for blocks from 7 bits to 32 bits per axis.
+- Pressing ESC in the keybinds menu no longer leaves if keybind button is active.
+- Fixed freeze when creating world if render distance is invalid.
+
+## 0.1.9b
+- A test for the inventory and open save directory button.
+
 ## 0.1.9
-- Fixed vertical slab placement when not placing on the ground
-- Fixed worlds not unloading on going to main menu
-- Fixed bug where open directory would go to the containing folder on windows
+- Windows only: Fixed bug where open directory would go to the containing folder.
+- Fixed worlds not unloading on going to main menu.
+- Fixed vertical slab placement when not placing on the ground.
 
 ## 0.1.8
 - Added aluminium panels
 - Slabs can now be orientated depending on placement position
 - Removed debug printing from explosions, reducing lag
 - Reduced stuttering at larger render distances
-- Fixed bug on windows where the open directory buttons wouldn't open
+- Fixed bug on windows where the open directory buttons wouldn't open (Testers wanted!)
 - Fixed bug where non-english characters would crash the game
 
 ## 0.1.7
