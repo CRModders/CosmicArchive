@@ -4,6 +4,8 @@ An Archive Of Every Cosmic Reach Version
 <img src="/image.png"></img>
 
 # Changelog
+## 0.1.12b
+- Increased the texture atlas to 1024x
 
 ## 0.1.12
 - Added run_trigger to relay custom triggers
