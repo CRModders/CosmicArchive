@@ -1,0 +1,123 @@
+Copyright 2024 FinalForEach Ltd.
+
+COSMIC REACH END USER LICENSE AGREEMENT VERSION 1
+
+This End User License Agreement ("Agreement" or "EULA") is a legal agreement 
+between you and FinalForEach Ltd. ("FinalForEach") regarding the 
+Cosmic Reach video game ("Cosmic Reach", the "game", or the "Software"), 
+and is licensing the game on the terms and conditions below.
+
+1. License Grant
+
+FinalForEach grants the User a limited, non-exclusive, non-transferable license
+to use the Software, subject to the terms and conditions of this Agreement.
+
+2. All Rights Reserved
+
+The Software is protected by copyright and other intellectual property laws.
+All rights not expressly granted herein are reserved by FinalForEach.
+
+3. Limitation of Liability
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL 
+THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, 
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS 
+IN THE SOFTWARE.
+
+4. Agreement Acceptance
+
+By installing, copying, or otherwise using the Software, the User agrees to be
+bound by the terms and conditions of this Agreement. If the User does not agree
+to these terms, the User should promptly uninstall or delete all copies of 
+the Software and refrain from using it.
+
+5. End User Obligations
+
+5.1 License Maintenance: The User agrees to maintain the integrity of this 
+End User License Agreement by retaining a copy of the agreement alongside
+the Software.
+
+5.2 Prohibited Activities: The User agrees not to sublicense, sell, 
+redistribute, or otherwise transfer copies of the Software to any 
+third party, whether for profit or otherwise, without the explicit 
+written consent of FinalForEach Ltd.
+
+5.3 Compliance with Laws: The User agrees to use the Software 
+in compliance with all applicable laws and regulations, and to refrain 
+from using the Software for any unlawful purpose or in any manner 
+that could infringe upon the rights of others.
+
+5.4 No Removal of Notices: The User agrees not to remove, alter,
+or obscure any copyright, trademark, or other proprietary rights notices 
+affixed to or contained within the Software.
+
+5.5 No Unauthorized Access: The User agrees not to attempt to gain
+unauthorized access to any services, accounts, computer systems,
+or networks associated with the Software.
+
+6. Severability
+
+6.1 Enforceability of Provisions: If any provision of this Agreement 
+is found to be invalid, illegal, or unenforceable under any applicable 
+law, such provision shall be deemed to be modified or deleted to the
+extent necessary to remove the invalidity, illegality, or unenforceability,
+and the remaining provisions of this Agreement shall continue in full force 
+and effect.
+
+6.2 Effect of Severability: The invalidity, illegality, or unenforceability 
+of any provision of this Agreement in any jurisdiction shall not affect the 
+validity,legality, or enforceability of the remainder of this Agreement in 
+that jurisdiction or the validity, legality, or enforceability of any provision
+of this Agreement in any other jurisdiction.
+
+7. Termination
+
+7.1 Termination by User: The User may terminate this Agreement at any time by 
+uninstalling or deleting all copies of the Software from their devices and 
+ceasing to use the Software.
+
+7.2 This Agreement will terminate automatically if you fail to abide by any 
+of the terms and conditions of the EULA.
+
+7.3 Effect of Termination: Upon termination of this Agreement, the User must
+cease all use of the Software and uninstall or delete all copies of the Software 
+from their devices.
+
+8. Governing Law
+
+This Agreement shall be governed by and construed in accordance with the laws of
+England and Wales, without regard to its conflict of law provisions. The parties
+irrevocably agree that any dispute arising out of or in connection with this 
+Agreement shall be subject to the exclusive jurisdiction of the courts of 
+England and Wales.
+
+9. Ownership of Software
+
+FinalForEach Ltd. retains all ownership rights, title, and interest in and to 
+the Software, including all intellectual property rights therein. The User 
+acknowledges that this Agreement does not transfer any ownership rights in the 
+Software to the User.
+
+10. Indemnification
+
+The User agrees to indemnify, defend, and hold harmless FinalForEach Ltd., 
+its affiliates, officers, directors, employees, agents, licensors, and 
+suppliers from and against any and all claims, demands, liabilities, damages, 
+losses, costs, and expenses, including reasonable attorney's fees, arising 
+out of or in any way connected with the User's use of the Software in violation
+of the terms of this Agreement or any applicable law, regulation, or third-party
+rights. FinalForEach Ltd. reserves the right, at its own expense, to assume the 
+exclusive defense and control of any matter otherwise subject to indemnification 
+by the User, in which event the User will cooperate with FinalForEach Ltd. 
+in asserting any available defenses.
+
+11. Survival
+
+The provisions of Sections 2 (All Rights Reserved), 3 (Limitation of Liability),
+5 (End User Obligations), 6 (Severability), 7 (Termination), 8 (Governing Law),
+9 (Ownership of Software), 10 (Indemnification), and this Section 11 (Survival) 
+shall survive any termination or expiration of this Agreement and shall continue
+to be binding upon the parties in accordance with their respective terms.
