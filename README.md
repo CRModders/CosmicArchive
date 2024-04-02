@@ -5,6 +5,57 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
+## Pre-Alpha 0.1.19
+- Added back references to myself to the game (the guy who wrote the previous changelog has been canned.)
+- Nostalgic islands now generate with stone at the bottom layer instead of lava- uh, I mean cheese.
+- Got rid of foolish blocks
+- Fixed bug where entering the keybinds menu would stop all keypresses from working
+- Fixed the player's position not loading properly
+
+## Pre-Alpha 0.1.18 (April Fools Update)
+- FinalForEach has been cancelled so all references to him in the game have been removed.
+- Added nostalgic island world type
+- Added a hunger and health system for a true survival experience
+- You can now eat cheese to restore health
+- Added can... but no can opener (find another way to open it!)
+- Added "red" "stone"
+- Added Foreshadowing block
+- Added a block that really doesn't want to exist
+- Re-unused boombox
+- Unacknowledged moonman
+- Reverted atlas size increase
+- Reverted reversion of atlas size increase
+- Fixed worlds unloading incorrectly
+- Triggers are now per-zone rather than per-game
+
+## Pre-Alpha 0.1.17b
+- Unknown
+
+## Pre-Alpha 0.1.17a
+- Unknown
+
+## Pre-Alpha 0.1.17
+- Fixed crash on world selection screen when world seed was not set
+
+## Pre-Alpha 0.1.16
+- Added world creation screen
+- Can set world name, seed, and type
+- Added flat world type
+- Fixed random crash with the Batched renderer
+- Major internal changes, separating the concept of worlds and zones to prepare for multiplayer
+
+## Pre-Alpha 0.1.15
+- Fixed crash when chunk's palette size exceeded 128
+- Palette is automatically cleaned up when exceeding a soft limit of 128 or hard limit of 4096
+- Major internal refactors to prepare for multiplayer
+
+## Pre-Alpha 0.1.14
+- Added tickDelay to base:run_trigger
+- Added debug crash button for an easy way to copy specs
+- Fixed texture buffer sharing the same binding as the diffuse texture
+- Fixed bug where missing blockstate id would crash when no default params specified
+- Fixed open save directory bug on windows not catching AWTError
+
 ## Pre-Alpha 0.1.13
 - Texture atlas size + precision increase using texture buffers.
 - Added Max FPS Slider
