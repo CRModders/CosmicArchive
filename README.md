@@ -28,10 +28,10 @@ An Archive Of Every Cosmic Reach Version
 - Fixed worlds unloading incorrectly
 - Triggers are now per-zone rather than per-game
 
-## Pre-Alpha 0.1.17b
+## Pre-Alpha 0.1.17b blue
 - Unknown
 
-## Pre-Alpha 0.1.17a
+## Pre-Alpha 0.1.17b red
 - Unknown
 
 ## Pre-Alpha 0.1.17
