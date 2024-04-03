@@ -29,10 +29,10 @@ An Archive Of Every Cosmic Reach Version
 - Triggers are now per-zone rather than per-game
 
 ## Pre-Alpha 0.1.17b blue
-- Unknown
+- Testing version for the block catalog for MacOS
 
 ## Pre-Alpha 0.1.17b red
-- Unknown
+- Testing version for the block catalog for MacOS
 
 ## Pre-Alpha 0.1.17
 - Fixed crash on world selection screen when world seed was not set
@@ -49,12 +49,24 @@ An Archive Of Every Cosmic Reach Version
 - Palette is automatically cleaned up when exceeding a soft limit of 128 or hard limit of 4096
 - Major internal refactors to prepare for multiplayer
 
+## Pre-Alpha 0.1.14b
+Unknown
+
 ## Pre-Alpha 0.1.14
 - Added tickDelay to base:run_trigger
 - Added debug crash button for an easy way to copy specs
 - Fixed texture buffer sharing the same binding as the diffuse texture
 - Fixed bug where missing blockstate id would crash when no default params specified
 - Fixed open save directory bug on windows not catching AWTError
+
+## Pre-Alpha 0.1.13d
+Unknown
+
+## Pre-Alpha 0.1.13c
+Unknown
+
+## Pre-Alpha 0.1.13b
+Unknown
 
 ## Pre-Alpha 0.1.13
 - Texture atlas size + precision increase using texture buffers.
