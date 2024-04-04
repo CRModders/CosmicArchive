@@ -5,6 +5,14 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
+## Pre-Alpha 0.1.20
+
+- Adjusted water shader slightly
+- Adjusted player physics in water
+- Player walks slower now
+- Potential fix for inputs being ignored when creating a new world
+- Bottom of nostalgic islands world type now converts from missing to basalt stone
+
 ## Pre-Alpha 0.1.19
 - Added back references to myself to the game (the guy who wrote the previous changelog has been canned.)
 - Nostalgic islands now generate with stone at the bottom layer instead of lava- uh, I mean cheese.
