@@ -5,6 +5,12 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
+## Pre-Alpha 0.1.21
+- Made walking speed faster
+- Made sprinting speed slower
+- Macs can render the world now
+- Fixed bug where blocks would go missing on a palette clean
+
 ## Pre-Alpha 0.1.20
 
 - Adjusted water shader slightly
