@@ -5,6 +5,12 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
+## Pre-Alpha 0.1.22
+- The game has been translated to multiple languages, including Spanish, German, French, Norwegian, Dutch, Polish, Portuguese, Russian, and Ukrainian (thank you everyone for your contributions!)
+- Introducing block events `base:set_cuboid`, `base:set_sphere` and `base:set_spherical_segment`
+  - These block events allow for setting blocks en masse, and running triggers for each block before and after setting
+  - Examples can be found in `assets/block_events/examples` in the jar file
+
 ## Pre-Alpha 0.1.21
 - Made walking speed faster
 - Made sprinting speed slower
