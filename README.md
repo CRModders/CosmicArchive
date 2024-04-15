@@ -5,6 +5,12 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
+## Pre-Alpha 0.1.23
+- Added Turkish, Hungarian, Danish, Sicilian, Catalan, Swedish, Croatian, Italian
+- Fixed various localization issues
+- Pre-alpha text will now try to fit on screen the best it can
+- If text on buttons are too long, text will wrap to try to fit as well as it can
+
 ## Pre-Alpha 0.1.22
 - The game has been translated to multiple languages, including Spanish, German, French, Norwegian, Dutch, Polish, Portuguese, Russian, and Ukrainian (thank you everyone for your contributions!)
 - Introducing block events `base:set_cuboid`, `base:set_sphere` and `base:set_spherical_segment`
