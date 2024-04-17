@@ -5,7 +5,7 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
-## Pre-Alpha 0.1.23
+## Pre-Alpha 0.1.24
 - Fixed a severe memory leak with the debug menu
 - Added missing font glyphs for Croatian
 - Added Bulgarian, Czech, and another dialect of Norwegian
