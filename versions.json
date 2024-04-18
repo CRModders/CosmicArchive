@@ -8,7 +8,7 @@
             "type": "pre_alpha",
             "releaseTime": 1713481610,
             "url": "https://raw.githubusercontent.com/CRModders/CosmicArchive/main/Cosmic%20Reach-0.1.26.jar",
-            "hash": "528341da6780227b850c743558c9caae",
+            "sha256": "229b4371ccfdcf3ce009cea45c55d89a4a07989f65c3b50b4f34c7e5a9c20076",
             "size": 23857138
         },
         {
@@ -16,7 +16,7 @@
             "type": "pre_alpha",
             "releaseTime": 1713480611,
             "url": "https://raw.githubusercontent.com/CRModders/CosmicArchive/main/Cosmic%20Reach-0.1.25.jar",
-            "hash": "6f66179b630a24ed197499e9f8c9ae4f",
+			"sha256": "cce6428cafd2d1b57f4e29fe7c83aa5d8f5cb2cbff31d4fc7c7560f664fdfc3b",
             "size": 23857131
         },
         {
