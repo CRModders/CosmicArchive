@@ -5,6 +5,9 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
+## Pre-Alpha 0.1.26
+- Fixed glass slabs missing from the last update
+
 ## Pre-Alpha 0.1.25
 - Added stairs for seamless blocks
 - Added block state generators, which can create variants of blocks at startup
