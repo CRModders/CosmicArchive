@@ -5,6 +5,14 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
+## Pre-Alpha 0.1.27
+- Various movement fixes
+- Player no longer phases through blocks when sprinting
+- Player no longer glitches into the ground when falling
+- Glass stairs are no longer ugly
+- Added stairs for metal panels, aluminium panels, and packed lunar soil
+- Added Serbian and other localisation fixes
+
 ## Pre-Alpha 0.1.26
 - Fixed glass slabs missing from the last update
 
