@@ -1,8 +1,16 @@
 {
     "latest": {
-        "pre_alpha": "0.1.27"
+        "pre_alpha": "0.1.28"
     },
     "versions": [
+        {
+            "id": "0.1.28",
+            "type": "pre_alpha",
+            "releaseTime": 1713644463,
+            "url": "https://raw.githubusercontent.com/CRModders/CosmicArchive/main/Cosmic%20Reach-0.1.28.jar",
+            "sha256": "49c2a47c1e4cb4854909507b5ca44a0d3af220f7ad060b3ef10d337585d5987c",
+            "size": 23879734
+        },
         {
             "id": "0.1.27",
             "type": "pre_alpha",

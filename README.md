@@ -6,6 +6,16 @@ An Archive Of Every Cosmic Reach Version
 # Changelogs
 
 ## Pre-Alpha 0.1.27
+- Added asphalt block
+- Added Welsh, Serbian (also I forgot to mention Romanian from a previous update)
+- Fixed wall running
+- Fixed glitch-hopping when crawling near slabs
+- Fixed glitching to the side of vertical slabs
+- Fixed being unable to climb stairs with a vertical slab above
+- Fixed block state generators not loading from the mods folder correctly
+- Exposed debug info as public to java mods
+
+## Pre-Alpha 0.1.27
 - Various movement fixes
 - Player no longer phases through blocks when sprinting
 - Player no longer glitches into the ground when falling
