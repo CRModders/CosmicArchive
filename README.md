@@ -5,6 +5,22 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
+## Pre-Alpha 0.1.29
+- Added wooden crate
+- Added gravel
+- Added limestone
+- Added gabbro stone
+- You can now build at any height above y=0
+- Inventory and hotbar are now saved
+- Items are now limited, to a maximum stack size of 999x
+- Significant memory and meshing optimisations
+- Fixed frustum culling issues
+- Introduced the 'naive' renderer, which is slower but potentially more stable for laptops
+- You can now switch between the default 'batched' and the new 'naive' renderer in the settings
+- Added block entity logic, with saving and loading
+- Region file version has been bumped from 0 to 1
+- Various translation fixes
+
 ## Pre-Alpha 0.1.28
 - Added asphalt block
 - Added Welsh, Serbian (also I forgot to mention Romanian from a previous update)
