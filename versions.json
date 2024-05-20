@@ -12,6 +12,14 @@
             "size": 24050754
         },
         {
+            "id": "0.1.30",
+            "type": "pre_alpha",
+            "releaseTime": 1716147973,
+            "url": "https://raw.githubusercontent.com/CRModders/CosmicArchive/main/Cosmic%20Reach-0.1.30.jar",
+            "sha256": "21b3140a977edea737495ef31335ecf6e0b736599504b8c61f70182534165386",
+            "size": 24043545
+        },
+        {
             "id": "0.1.29",
             "type": "pre_alpha",
             "releaseTime": 1716076800,

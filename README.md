@@ -12,6 +12,9 @@ An Archive Of Every Cosmic Reach Version
 - Fixed a crash with the batch renderer
 - Various translation improvements
 
+## Pre-Release 0.1.30
+- Hotfix to prevent worlds regenerating terrain and reverting placed blocks
+
 ## Pre-Alpha 0.1.29
 - Added wooden crate
 - Added gravel
