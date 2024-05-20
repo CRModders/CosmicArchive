@@ -5,6 +5,13 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
+## Pre-Alpha 0.1.31
+- Fixed placed blocks above y=256 not saving
+- Fixed huge lag spike when quitting to main menu
+- Fixed item duplication bug
+- Fixed a crash with the batch renderer
+- Various translation improvements
+
 ## Pre-Alpha 0.1.29
 - Added wooden crate
 - Added gravel
