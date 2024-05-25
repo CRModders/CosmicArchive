@@ -5,6 +5,15 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
+## Pre-Alpha 0.1.31d
+Unknown. MacOS test version
+
+## Pre-Alpha 0.1.31c
+Unknown. MacOS test version
+
+## Pre-Alpha 0.1.31b
+Unknown. MacOS test version
+
 ## Pre-Alpha 0.1.31
 - Fixed placed blocks above y=256 not saving
 - Fixed huge lag spike when quitting to main menu
