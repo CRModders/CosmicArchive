@@ -5,6 +5,18 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
+## Pre-Alpha 0.1.32
+- Added the "Dynamic Sky" lighting option
+- Added mouse keybinds for placing / breaking blocks
+- Slight inventory improvements
+- Max stack size increased to 1000, displayed as 1K
+- Breaking blocks adds it back to your inventory
+- Significant batch renderer optimizations
+- Improved the internal block entity API for modders
+- Mac vertex format is now the same as on PC
+- Various translation additions
+- Added health bar
+ 
 ## Pre-Alpha 0.1.31d
 Unknown. MacOS test version
 
