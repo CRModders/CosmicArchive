@@ -5,6 +5,9 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
+## Pre-Alpha 0.1.33
+- Small hotfix to fix crashing when opening a crate
+
 ## Pre-Alpha 0.1.32
 - Added the "Dynamic Sky" lighting option
 - Added mouse keybinds for placing / breaking blocks
