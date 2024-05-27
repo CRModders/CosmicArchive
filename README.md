@@ -7,6 +7,7 @@ An Archive Of Every Cosmic Reach Version
 
 ## Pre-Alpha 0.1.33
 - Small hotfix to fix crashing when opening a crate
+- Various translation fixes
 
 ## Pre-Alpha 0.1.32
 - Added the "Dynamic Sky" lighting option
