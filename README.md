@@ -5,6 +5,25 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
+## Pre-Alpha 0.1.36
+- Fixed bug with black screen on creating a new world
+- Fixed bug where cycling item types of a missing block would cause a crash
+
+## Pre-Alpha 0.1.35
+- Fixed bug where world would crash upon entering
+
+## Pre-Alpha 0.1.34
+- Can now cycle block types in hotbar, e.g. blocks/slabs/stairs (set to the " ` " keybind by default)
+- Can now set the save game directory with command line option -s or --save-location
+- World info now stores additional metadata
+- Added 3D audio, with new play_sound_3d block event
+- Fixed a bug where picking a missing block would cause a crash
+- Fixed a bug where changing worlds would show a black screen until pausing
+- Fixed bug where dropping an item could not be rebound to mouse buttons
+- Fixed a regessing bug where the last transparent block in a chunk would still be visible after removal
+- Space keybind is no longer blank when set
+- More internal work on mobs
+
 ## Pre-Alpha 0.1.33
 - Small hotfix to fix crashing when opening a crate
 - Various translation fixes
