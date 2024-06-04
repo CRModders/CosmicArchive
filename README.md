@@ -108,12 +108,6 @@ Unknown. MacOS test version
 - Various localization fixes
 
 ## Pre-Alpha 0.1.23
-- Fixed a severe memory leak with the debug menu
-- Added missing font glyphs for Croatian
-- Added Bulgarian, Czech, and another dialect of Norwegian
-- Various localization fixes
-
-## Pre-Alpha 0.1.23
 - Added Turkish, Hungarian, Danish, Sicilian, Catalan, Swedish, Croatian, Italian
 - Fixed various localization issues
 - Pre-alpha text will now try to fit on screen the best it can
