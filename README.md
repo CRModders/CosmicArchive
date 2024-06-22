@@ -5,6 +5,22 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
+## Pre-Alpha 0.1.37
+- Added a flying drone called the Interceptor
+- Added a trap which spawns Interceptors
+- Added a death screen
+- Added damage effects
+- Improved the main menu
+- Added a difficulty setting: Currently only peaceful and normal are used.
+- Can now drop items out of the inventory
+- Fixed crash when creating a new world or respawning
+- Fixed lighting calculations
+- Moved game tick updates to a separate thread
+- Fixed random frame-dependent camera jitter
+- Fixed background threads not closing properly when the game crashes
+- Region file version bumped to version 2
+- Game can now save and load entities
+
 ## Pre-Alpha 0.1.36
 - Fixed bug with black screen on creating a new world
 - Fixed bug where cycling item types of a missing block would cause a crash
