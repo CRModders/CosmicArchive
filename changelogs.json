@@ -1,5 +1,19 @@
 {
     "pre-alpha": {
+        "0.1.38": [
+            "Added coconut trees",
+            "The nostalgic islands world type is now the default",
+            "Added random ticks, available now in block events with the <code>onRandomTick</code> trigger",
+            "Added the <code>base:increment_param</code> block event action",
+            "Fixed storage screen flickering on the first frame",
+            "Fixed being able to drop an item from another world",
+            "Meshing optimizations",
+            "Clicking outside of the inventory drops the cursor's item",
+            "Clicking in the item catalog now deletes the cursor's item",
+            "Health bar now flashes when dropping",
+            "Fixed game not pausing after loading if window unfocused",
+            "Drones no longer drop dirt, grass or tree logs"
+        ],
         "0.1.37": [
             "Added a flying drone called the Interceptor",
             "Added a trap which spawns Interceptors",
