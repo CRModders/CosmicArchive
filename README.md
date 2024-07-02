@@ -5,6 +5,11 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
+## Pre-Alpha 0.1.39
+- Fixed placed coconuts despawning after some time instead of growing trees
+- Fixed leaf blocks growing into trees
+- Fixed being unable to shift-click items when the hotbar is full
+
 ## Pre-Alpha 0.1.38
 - Added coconut trees
 - The nostalgic islands world type is now the default
