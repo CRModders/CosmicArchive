@@ -5,6 +5,18 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
+## Pre-Alpha 0.1.40
+- Blocks now drop as items
+- New block event: base:item_drop, which can take in a position and optionally dropId as an input parameter
+- Picking block now chooses the "correct" block state
+- Pressing the drop item key in the inventory can drop the item in the hovered slot
+- Stairs and vertical slabs now placed based on camera orientation rather than raycast position
+- Fixed freeze when picking up similar items in inventory
+- Fixed being unable to reliably leave water when swimming
+- Worlds are now sorted by last played
+- All saved strings + files use UTF-8 wherever possible
+- Fixed being able to go fullscreen with the mouse causing the game to be unplayable
+
 ## Pre-Alpha 0.1.39
 - Fixed placed coconuts despawning after some time instead of growing trees
 - Fixed leaf blocks growing into trees
