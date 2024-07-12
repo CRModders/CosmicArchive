@@ -7,7 +7,7 @@ An Archive Of Every Cosmic Reach Version
 
 ## Pre-Alpha 0.1.40
 - Blocks now drop as items
-- New block event: base:item_drop, which can take in a position and optionally dropId as an input parameter
+- New block event: `base:item_drop`, which can take in a position and optionally `dropId` as an input parameter
 - Picking block now chooses the "correct" block state
 - Pressing the drop item key in the inventory can drop the item in the hovered slot
 - Stairs and vertical slabs now placed based on camera orientation rather than raycast position
