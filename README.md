@@ -5,6 +5,26 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
+## Pre-Alpha 0.1.42
+- Fixed the stars spinning like crazy.
+
+## Pre-Alpha 0.1.41
+- The currently selected item is now shown in your first person "right hand".
+- Support non english world names
+- Fixed bug where you could drop the wrong hotbar item if the cursor is hidden and hovered over
+- The world loader thread now sleeps when idle
+- Really really long world names are truncated in the world selection menu
+- Fixed leaf decay crash
+- Item drops float when "inside" blocks
+- Can pick up items one block up
+- Stars now rotate in the Dynamic sky
+- Gravity is stronger, the player is now less "floaty"
+- Crates drop items when destroyed
+- Items correctly display "0" when count is 0, and no longer display if count is 1.
+- @Language Contributor  Localized the percent format for the loading screen
+- Fixed the drone texture
+- Camera far clipping plane now shrinks with lesser render distances
+
 ## Pre-Alpha 0.1.40
 - Blocks now drop as items
 - New block event: `base:item_drop`, which can take in a position and optionally `dropId` as an input parameter
