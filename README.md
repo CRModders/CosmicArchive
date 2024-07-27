@@ -5,6 +5,17 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
+## Pre-Alpha 0.1.43
+- Held item is now independent of FOV
+- Made picking up items easier
+- Random ticks now only occur in immediately surrounding regions
+- Fixed a bug where the player would freeze when making a new world
+- Fixed item jitter
+- Added commands, notably /noclip and /summon
+- Sprinting now influences the FOV
+- Adjusted sprinting and walking speed
+- Fixed a rare batch rendering crash
+
 ## Pre-Alpha 0.1.42
 - Fixed the stars spinning like crazy.
 
