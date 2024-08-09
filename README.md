@@ -5,6 +5,24 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
+## Pre-Alpha 0.1.44
+- Added crafting system
+- Added "2d" items
+- Added medkit
+- Added stick
+- Added stone axe, pickaxe, and shovel
+- Added `/die` command
+- Added `/teleport` command
+- Added `/gamemode` command (Use `/gamemode creative` and `/gamemode survival`)
+- Can no longer instant-break blocks in survival mode
+- Hitting items on the ground knocks them back
+- Dynamic sky colour is now brighter on the horizon
+- Chat text shadow is now darker
+- Can no longer no-clip via hotkey in survival
+- Fixed bottom of water clipping
+- Adjusted metal panel + drone textures to be more saturated
+- Debug screen shows bounding boxes of entities
+
 ## Pre-Alpha 0.1.43
 - Held item is now independent of FOV
 - Made picking up items easier

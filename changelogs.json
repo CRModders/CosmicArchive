@@ -1,5 +1,23 @@
 {
     "pre-alpha": {
+        "0.1.44": [
+            "Added crafting system",
+            "Added \"2d\" items",
+            "Added medkit",
+            "Added stick",
+            "Added stone axe, pickaxe, and shovel",
+            "Added <code>/die</code> command",
+            "Added <code>/teleport</code> command",
+            "Added <code>/gamemode</code> command (Use <code>/gamemode creative</code> and <code>/gamemode survival</code>)",
+            "Can no longer instant-break blocks in survival mode",
+            "Hitting items on the ground knocks them back",
+            "Dynamic sky colour is now brighter on the horizon",
+            "Chat text shadow is now darker",
+            "Can no longer no-clip via hotkey in survival",
+            "Fixed bottom of water clipping",
+            "Adjusted metal panel + drone textures to be more saturated",
+            "Debug screen shows bounding boxes of entities"
+        ],
         "0.1.43": [
             "Held item is now independent of FOV",
             "Made picking up items easier",
