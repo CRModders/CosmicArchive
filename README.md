@@ -5,6 +5,20 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
+## Pre-Alpha 0.1.45
+- Added block tags (For data modders: an arbitrary list of strings called `tags` in a blockstate)
+- "Flicking" an item on the ground now plays a small sound
+- Fixed a bug where selecting a different block would not reset the breaking timer
+- Fixed the bug where player would freeze on making a new world
+- Fixed ghost transparent blocks in the batch renderer
+- Fixed bug where cursor slot had the wrong perspective for an item
+- Fixed shifting clicking crafting outputs not stacking + output slot is now coloured differently
+- Fixed sticks not stacking
+- Fixed rare crash when breaking animation is exactly one
+- Allow survival mode players to disable no-clip via hotkey
+- Fixed shovels not being effective towards dirt
+- Fixed missing block related crash when breaking with tool
+
 ## Pre-Alpha 0.1.44
 - Added crafting system
 - Added "2d" items
