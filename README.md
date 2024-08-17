@@ -5,6 +5,9 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
+## Pre-Alpha 0.1.47
+- Fixed tools not working
+
 ## Pre-Alpha 0.1.46
 - Added a furnace
 - Takes logs, planks, sticks, leaves, wooden crates, or magma as fuel

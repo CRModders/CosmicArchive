@@ -1,5 +1,8 @@
 {
     "pre-alpha": {
+        "0.1.47": [
+            "Fixed tools not working"
+        ],
         "0.1.46": [
             "Added a furnace",
             "sub: Takes logs, planks, sticks, leaves, wooden crates, or magma as fuel",
