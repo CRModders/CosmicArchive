@@ -9,11 +9,11 @@ An Archive Of Every Cosmic Reach Version
 - Added a furnace
 - Takes logs, planks, sticks, leaves, wooden crates, or magma as fuel
 - Can smelt sand into glass, and stone into magma
-- Added /nightvision command
-- Added short aliases for commands (use the /help command for more details)
+- Added `/nightvision` command
+- Added short aliases for commands (use the `/help` command for more details)
 - Inventory UI now has higher contrast
 - The world now saves its current time
-- Fixed a huge lag spike when placing or breaking blocks near rainbows (yes really)
+- Fixed a huge lag spike when placing or breaking blocks near rainbows (_yes really_)
 - Fixed a bug where clicking an empty item slot may crash the game
 - Fixed severe flickering of water and leaves in the batch renderer
 
