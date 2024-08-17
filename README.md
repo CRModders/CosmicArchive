@@ -5,6 +5,18 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
+## Pre-Alpha 0.1.46
+- Added a furnace
+- Takes logs, planks, sticks, leaves, wooden crates, or magma as fuel
+- Can smelt sand into glass, and stone into magma
+- Added /nightvision command
+- Added short aliases for commands (use the /help command for more details)
+- Inventory UI now has higher contrast
+- The world now saves its current time
+- Fixed a huge lag spike when placing or breaking blocks near rainbows (yes really)
+- Fixed a bug where clicking an empty item slot may crash the game
+- Fixed severe flickering of water and leaves in the batch renderer
+
 ## Pre-Alpha 0.1.45
 - Added block tags (For data modders: an arbitrary list of strings called `tags` in a blockstate)
 - "Flicking" an item on the ground now plays a small sound
