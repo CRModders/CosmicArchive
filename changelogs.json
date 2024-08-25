@@ -1,5 +1,21 @@
 {
     "pre-alpha": {
+        "0.1.48": [
+            "Items, furnace recipes, crafting recipes, and loot now load from data ( and data mods! )",
+            "Player now starts at 3 max HP",
+            "Added gold, aluminium, and iron for both ores and ingots",
+            "Added a gold medkit, which increases your max HP by 1 up to a max of 10",
+            "Can now tame interceptors using a gold ingot",
+            "Can now double jump in creative to go into no-clip",
+            "Sticks now take two planks instead of one",
+            "Fixed player freezing upon teleporting or respawning",
+            "Fixed bug where a crash would occur on absurd amounts of leaves",
+            "Fixed furnace dropping its lit variant",
+            "Fixed furnace being lit with a non fuel item in fuel slot",
+            "Fixed bug where shift clicking into furnace caused a crash",
+            "Fixed duplication bug when pressing drop item key in the crafting output",
+            "Added a crash guard as a temporary fix until a rare bug with large amounts of meshes can be diagnosed"
+        ],
         "0.1.47": [
             "Fixed tools not working"
         ],
