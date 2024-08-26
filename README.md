@@ -5,6 +5,15 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
+## Pre-Alpha 0.1.49
+- Added item durability
+- Furnaces now explode when smelting C4
+- Temporarily added a rare chance for interceptors to drop gold ingots
+- Allied interceptors are now cyan instead of green
+- Furnace screen now closes when the furnace is broken
+- Fixed modded items + recipes not loading in
+- Fixed crash when a missing block is replaced with a modded item
+
 ## Pre-Alpha 0.1.48
 - Items, furnace recipes, crafting recipes, and loot now load from data ( and data mods! )
 - Player now starts at 3 max HP
