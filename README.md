@@ -5,6 +5,10 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
+## Pre-Alpha 0.1.50
+- Fix crashing on breaking block in new world
+- Fix crash on modded item overwriting an existing one
+
 ## Pre-Alpha 0.1.49
 - Added item durability
 - Furnaces now explode when smelting C4
