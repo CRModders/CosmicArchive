@@ -1,8 +1,12 @@
 {
     "latest": {
-        "pre_alpha": "0.1.50"
+        "pre_alpha": "0.2.0"
     },
     "versions": [
+        {
+            "id": "0.2.0",
+            "type": "pre_alpha",
+        },
         {
             "id": "0.1.50",
             "type": "pre_alpha",
