@@ -1,5 +1,19 @@
 {
     "pre-alpha": {
+        "0.2.0": [
+            "Added the new \"Survival\" world type",
+            "Added <code>/time</code> command",
+            "Added Poplar trees",
+            "Added per-face normals, and blocks are now lit by the position of the sun",
+            "Added iron and aluminium tools",
+            "Added block hardness",
+            "Spawn position is now random in a 5000 block radius from 0, 0",
+            "Default sky for non-moon worlds is now dynamic, temporarily removed the lighting options",
+            "Fixed bug freezing player on first world load",
+            "Fixed falling through the floor when away from the original camera position on load",
+            "Fixed modded items and recipes not loading on windows",
+            "Removed <code>generateSlabs</code> flag from block states"
+        ],
         "0.1.50": [
             "Fix crashing on breaking block in new world",
             "Fix crash on modded item overwriting an existing one"
