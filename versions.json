@@ -377,7 +377,7 @@
             "releaseTime": 1712275200,
             "url": "https://raw.githubusercontent.com/CRModders/CosmicArchive/main/versions/pre-alpha/Cosmic%20Reach-0.1.20.jar",
             "sha256": "1766ea3ddd972776cbf909d805e1cbfd230dc4c399292c082b891813913f7a01",
-            "size": 23697524
+            "size": 23697093
         },
         {
             "id": "0.1.19",
@@ -577,7 +577,7 @@
             "releaseTime": 1710633600,
             "url": "https://raw.githubusercontent.com/CRModders/CosmicArchive/main/versions/pre-alpha/Cosmic%20Reach-0.1.8.jar",
             "sha256": "03f871081592b664d468b5a341027224824bf7823bd711c1421584c2d1385db4",
-            "size": 23658752
+            "size": 23658609
         },
         {
             "id": "0.1.7",
