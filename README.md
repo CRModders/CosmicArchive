@@ -7,7 +7,7 @@ An Archive Of Every Cosmic Reach Version
 
 ## Pre-Alpha 0.2.0
 - Added the new "Survival" world type
-- Added /time command
+- Added `/time` command
 - Added Poplar trees
 - Added per-face normals, and blocks are now lit by the position of the sun
 - Added iron and aluminium tools
@@ -17,7 +17,7 @@ An Archive Of Every Cosmic Reach Version
 - Fixed bug freezing player on first world load
 - Fixed falling through the floor when away from the original camera position on load
 - Fixed modded items and recipes not loading on windows
-- Removed generateSlabs flag from block states
+- Removed `generateSlabs` flag from block states
 
 ## Pre-Alpha 0.1.50
 - Fix crashing on breaking block in new world
