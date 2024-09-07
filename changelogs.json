@@ -1,5 +1,14 @@
 {
     "pre-alpha": {
+        "0.2.4": [
+            "You can now paste seeds directly in the world creation screen",
+            "The cursor now resets to the center of the screen when opening the inventory",
+            "Fixed nostalgic islands world type never loading in",
+            "Fixed mesh glitches when too many blocks are edited at once",
+            "Fixed a bug where a single-block layer would upgrade to a bit layer with the wrong block",
+            "Fixed respawning whenever the game restarts",
+            "Fixed camera getting stuck looking straight down when away from the world origin"
+        ],
         "0.2.3": [
             "Fix player respawning every time the world is loaded"
         ],

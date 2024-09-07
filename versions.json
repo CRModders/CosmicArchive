@@ -4,6 +4,14 @@
     },
     "versions": [
         {
+            "id": "0.2.4",
+            "type": "pre_alpha",
+            "releaseTime": 1725667200,
+            "url": "https://raw.githubusercontent.com/CRModders/CosmicArchive/main/versions/pre-alpha/Cosmic%20Reach-0.2.4.jar",
+            "sha256": "3b7895a74f201563a7d6852f48152f054c8635fdec3351efeeb2f4715939d8ae",
+            "size": 24214607
+        },
+        {
             "id": "0.2.3",
             "type": "pre_alpha",
             "releaseTime": 1725667200,
