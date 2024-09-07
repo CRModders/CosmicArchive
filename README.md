@@ -5,6 +5,24 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
+## Pre-Alpha 0.2.3
+- Fix player respawning every time the world is loaded
+
+## Pre-Alpha 0.2.2
+- Fix crash in F3 debug menu when not looking at blocks
+- Potential fix for cropped screenshots on certain mac computers
+
+## Pre-Alpha 0.2.1
+- Reduced vertex size
+- Reduced in-memory representation of blocks and world sizes on disk
+- Remove metal blocks from interceptor loot
+- Fix spawn point to be dependent on the world seed
+- Fixed world spawn being set in the air or in water
+- Fixed bug where player is spawned with 10 out of 3 max HP
+- Fixed block selection being interrupted while moving
+- Fix mod asset loading for windows (Testers wanted!)
+- Potential screenshot fix for mac (Testers wanted!)
+
 ## Pre-Alpha 0.2.0
 - Added the new "Survival" world type
 - Added `/time` command
