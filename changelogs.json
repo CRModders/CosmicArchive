@@ -1,5 +1,13 @@
 {
     "pre-alpha": {
+        "0.2.5": [
+            "Added /skylight command",
+            "Added credits screen",
+            "Added community contribution: 3D Item models",
+            "Reduced frequency of iron ore generation",
+            "Poplar trees now have their own leaves and saplings",
+            "Added new block event: base:loot_drop which allows blocks to have a custom loot table"
+        ],
         "0.2.4": [
             "You can now paste seeds directly in the world creation screen",
             "The cursor now resets to the center of the screen when opening the inventory",
