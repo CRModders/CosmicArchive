@@ -1,5 +1,21 @@
 {
     "pre-alpha": {
+        "0.3.0": [
+            "All mods and assets are now namespaced, data mods must be in the path /mods/YOUR_NAMESPACE/YOUR_ASSET_FOLDER/YOUR_ASSET",
+            "For example, if I added a banana item, it would be under the path in the save directory /mods/my_banana_mod/items/banana.json",
+            "Please refer to the base assets as examples on how to migrate your data mods to 0.3.0",
+            "Items now have tooltips",
+            "Credits scroll faster when holding the sprint or jump keybinds",
+            "Tools are only damaged if blocks have a hardness greater than 0",
+            "Saplings no longer block light",
+            "Normals on saplings are now fixed",
+            "Saplings can only plant on valid blocks now",
+            "Added canPlace predicate to sapling",
+            "Dropped block_ prefix from block json file names",
+            "Moved isTransparent and cullsSelf flags to from blockstate to model files",
+            "Models and textures are now referenced by their identifier in files",
+            "Refactored language files to support tooltips and mods, added translation keys for blocks and items"
+        ]
         "0.2.5": [
             "Added /skylight command",
             "Added credits screen",
