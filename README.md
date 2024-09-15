@@ -11,7 +11,7 @@ An Archive Of Every Cosmic Reach Version
 - Added community contribution: 3D Item models
 - Reduced frequency of iron ore generation
 - Poplar trees now have their own leaves and saplings
-- Added new block event: base:loot_drop which allows blocks to have a custom loot table
+- Added new block event: `base:loot_drop` which allows blocks to have a custom loot table
 
 ## Pre-Alpha 0.2.4
 - You can now paste seeds directly in the world creation screen
