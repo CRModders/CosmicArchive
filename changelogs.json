@@ -1,5 +1,12 @@
 {
     "pre-alpha": {
+        "0.3.1": [
+            "Fixed axes not being effective towards wooden crates",
+            "Fixed sounds not loading from their resource locations",
+            "Fixed credits screen crashing",
+            "Better error handling on block events",
+            "Better logging on block state generators"
+        ],
         "0.3.0": [
             "All mods and assets are now namespaced, data mods must be in the path <code>/mods/YOUR_NAMESPACE/YOUR_ASSET_FOLDER/YOUR_ASSET</code>",
             "For example, if I added a banana item, it would be under the path in the save directory <code>/mods/my_banana_mod/items/banana.json</code>",
@@ -15,7 +22,7 @@
             "Moved <code>isTransparent</code> and <code>cullsSelf</code> flags to from blockstate to model files",
             "Models and textures are now referenced by their identifier in files",
             "Refactored language files to support tooltips and mods, added translation keys for blocks and items"
-        ]
+        ],
         "0.2.5": [
             "Added /skylight command",
             "Added credits screen",

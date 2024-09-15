@@ -5,6 +5,13 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
+## Pre-Alpha 0.3.1
+- Fixed axes not being effective towards wooden crates
+- Fixed sounds not loading from their resource locations
+- Fixed credits screen crashing
+- Better error handling on block events
+- Better logging on block state generators
+
 ## Pre-Alpha 0.3.0
 - All mods and assets are now namespaced, data mods must be in the path `/mods/YOUR_NAMESPACE/YOUR_ASSET_FOLDER/YOUR_ASSET`
 - For example, if I added a banana item, it would be under the path in the save directory `/mods/my_banana_mod/items/banana.json`
