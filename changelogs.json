@@ -1,5 +1,12 @@
 {
     "pre-alpha": {
+        "0.3.2-pre1": [
+            "This is a discord-only development release intended for modloaders to adapt to the new systems for multiplayer. Multiplayer will not function properly outside of basic actions like moving around.",
+            "Added basic multiplayer via netty",
+            "The client save directory is used, and the server cannot be configured yet",
+            "All clients + server must have the same mods for expected results",
+            "No account auth is used yet."
+        ],
         "0.3.1": [
             "Fixed axes not being effective towards wooden crates",
             "Fixed sounds not loading from their resource locations",
