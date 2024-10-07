@@ -5,6 +5,23 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
+## Pre-Alpha 0.3.2-pre4
+- Fix default path for windows causing crash on first save
+- **This server is compatible with 0.3.2-pre2 clients**
+
+## Pre-Alpha 0.3.2-pre3
+- Potential fix for windows
+- **This server is compatible with 0.3.2-pre2 clients**
+
+## Pre-Alpha 0.3.2-pre2
+Another discord-only development release, to hold you over for those who really can't wait for the fully fledged update.
+- Chat is limited to 256 chars per message
+- Fixed credits using the wrong charset
+- Join message whenever a player enters the server
+- Server uses jar location to store worlds + config
+- Can break, place and interact with blocks in servers now. (some block events are only partially implemented)
+- Various networking crashes fixed
+
 ## Pre-Alpha 0.3.2-pre1
 This is a discord-only development release intended for modloaders to adapt to the new systems for multiplayer. Multiplayer will not function properly outside of basic actions like moving around.
 - Added basic multiplayer via netty
