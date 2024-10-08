@@ -1,5 +1,13 @@
 {
     "pre-alpha": {
+        "0.3.2-pre5": [
+            "Another discord-only development release, to hold you over for those who really can't wait for the fully fledged update.",
+            "Fixed being unable to break leaves in multiplayer",
+            "Disconnects are handled properly",
+            "Fixed english tips being replaced by hungarian ones",
+            "No clip flying down is now the same speed as flying up",
+            "Fixed block positions causing crashes in negative coordinates"
+        ],
         "0.3.2-pre4": [
             "Fix default path for windows causing crash on first save",
             "This server is compatible with 0.3.2-pre2 clients"
