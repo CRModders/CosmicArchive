@@ -18,7 +18,7 @@ An Archive Of Every Cosmic Reach Version
 - When pasting, replace the default text in multiplayer address field
 - Fixed crash when pasting in multiplayer address
 
-# Pre-ALpha 0.3.2-pre5
+## Pre-Alpha 0.3.2-pre5
 Another discord-only development release, to hold you over for those who really can't wait for the fully fledged update.
 - Fixed being unable to break leaves in multiplayer
 - Disconnects are handled properly
