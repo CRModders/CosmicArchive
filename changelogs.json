@@ -1,5 +1,17 @@
 {
     "pre-alpha": {
+        "0.3.2-pre6": [
+            "2D and 3D sounds are now networked",
+            "Added ticking on servers",
+            "Fixed block loot drops not dropping on center",
+            "Backspace now deletes on cursor, not at end",
+            "Creative mode blocks don't decrease when placed",
+            "Item catalog now gives different amounts depending on if shift clicking or not",
+            "Crates are now networked",
+            "Fixed bug where could not place blocks above top loaded chunk on servers",
+            "When pasting, replace the default text in multiplayer address field",
+            "Fixed crash when pasting in multiplayer address"
+        ],
         "0.3.2-pre5": [
             "Another discord-only development release, to hold you over for those who really can't wait for the fully fledged update.",
             "Fixed being unable to break leaves in multiplayer",
