@@ -8,12 +8,12 @@
             "type": "pre_alpha",
             "releaseTime": 1729036800,
             "client": {
-                "url": "https://raw.githubusercontent.com/CRModders/CosmicArchive/main/versions/pre-alpha/Cosmic%20Reach-0.3.2-pre6.jar",
+                "url": "https://raw.githubusercontent.com/CRModders/CosmicArchive/main/versions/pre-alpha/0.3.2-pre6/client/Cosmic%20Reach-0.3.2-pre6.jar",
                 "sha256": "19c50e38590f80274ad872cb754684e41904bb18b228ed03fcc6e8697a2fc078",
                 "size": 28584764
             },
             "server": {
-                "url": "https://raw.githubusercontent.com/CRModders/CosmicArchive/main/versions/pre-alpha/Cosmic-Reach-Server-0.3.2-pre6.jar",
+                "url": "https://raw.githubusercontent.com/CRModders/CosmicArchive/main/versions/pre-alpha/0.3.2-pre6/server/Cosmic-Reach-Server-0.3.2-pre6.jar",
                 "sha256": "1a2c1f71980d51efe663b223bb8c47458cc12331ea174bf3abeed9c4964353e4",
                 "size": 13049042
             }
