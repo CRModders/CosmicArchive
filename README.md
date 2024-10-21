@@ -5,6 +5,22 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
+## Pre-Alpha 0.3.2-pre7
+*This is probably the last discord-only pre-release before the official update is made available to all.*
+- Fixed interacting with inventory in singleplayer causing crash
+- Fixed rare crash when saving
+- Block breaking sounds are now no longer wrongly global in multiplayer
+- Fixed crates dropping ghost items
+- Fixed bug where a block with inverted normals had no bounding box
+- Added loading screen for multiplayer
+- Entities are now in multiplayer
+- Massively improved multiplayer chunk loading
+- If a client uses a lower distance than the server, the server will not send more chunks than necessary
+- Can now drop + flick items in multiplayer
+- Furnaces are now working in multiplayer
+- Fixed random exceptions with the player position packet
+- Entering multiplayer is less error prone
+
 ## Pre-Alpha 0.3.2-pre6
 
 - 2D and 3D sounds are now networked
