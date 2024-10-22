@@ -5,6 +5,9 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
+## Pre-Alpha 0.3.2-pre8
+- Quick hotfixes to make the world loader more stable
+
 ## Pre-Alpha 0.3.2-pre7
 *This is probably the **last** discord-only pre-release before the official update is made available to all.*
 - Fixed interacting with inventory in singleplayer causing crash
