@@ -5,6 +5,10 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
+## Pre-Alpha 0.3.2-pre9
+- Player doesn't spawn in multiplayer until the world is fully loaded for the render distance
+- Various stability fixes
+
 ## Pre-Alpha 0.3.2-pre8
 - Quick hotfixes to make the world loader more stable
 
