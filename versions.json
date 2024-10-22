@@ -4,7 +4,7 @@
     },
     "versions": [
         {
-            "id": "0.3.2",
+            "id": "0.3.2-pre9",
             "type": "pre_alpha",
             "releaseTime": 1729555200,
             "client": {
