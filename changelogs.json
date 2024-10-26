@@ -1,5 +1,13 @@
 {
     "pre-alpha": {
+        "0.3.2.pre-10": [
+            "*I'm almost certain this is the last before the official release, just need to do some config setup + auth if nothing goes wrong*",
+            "Air blocks now have their own block event separate from default",
+            "Fixed client being unable to load in singleplayer",
+            "Mobs can now attack the player in multiplayer",
+            "Players with Itch accounts can now save in multiplayer",
+            "`ITCHIO_API_KEY` will now accept itch API keys as well as itch JWT keys"
+        ],
         "0.3.2-pre9": [
             "Player doesn't spawn in multiplayer until the world is fully loaded for the render distance",
             "Various stability fixes"
