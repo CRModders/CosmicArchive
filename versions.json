@@ -3,21 +3,21 @@
         "pre_alpha": "0.3.1"
     },
     "versions": [
-		{
-			"id": "0.3.2-pre10",
-			"type": "pre_alpha",
-			"releaseTime": 1729900800,
-			"client": {
-				"url": "https://raw.githubusercontent.com/CRModders/CosmicArchive/main/versions/pre-alpha/0.3.2-pre10/client/Cosmic%20Reach-0.3.2-pre10.jar",
-				"sha256": "dc541e374cb8bc7437579ed7eddf45f59676fd4a7c1276dba237dc7a0adcf603",
-				"size": 28631361
-			},
-			"server": {
-				"url": "https://raw.githubusercontent.com/CRModders/CosmicArchive/main/versions/pre-alpha/0.3.2-pre10/server/Cosmic-Reach-Server-0.3.2-pre10.jar",
-				"sha256": "4bb969c3841093e5513d24cf5c97f58ef78599af77985efdf27bd9226e2040fb",
-				"size": 13092004
-			}
-		},
+        {
+            "id": "0.3.2-pre10",
+            "type": "pre_alpha",
+            "releaseTime": 1729900800,
+            "client": {
+                "url": "https://raw.githubusercontent.com/CRModders/CosmicArchive/main/versions/pre-alpha/0.3.2-pre10/client/Cosmic%20Reach-0.3.2-pre10.jar",
+                "sha256": "dc541e374cb8bc7437579ed7eddf45f59676fd4a7c1276dba237dc7a0adcf603",
+                "size": 28631361
+            },
+            "server": {
+                "url": "https://raw.githubusercontent.com/CRModders/CosmicArchive/main/versions/pre-alpha/0.3.2-pre10/server/Cosmic-Reach-Server-0.3.2-pre10.jar",
+                "sha256": "4bb969c3841093e5513d24cf5c97f58ef78599af77985efdf27bd9226e2040fb",
+                "size": 13092004
+            }
+        },
         {
             "id": "0.3.2-pre9",
             "type": "pre_alpha",
