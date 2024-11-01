@@ -1,5 +1,9 @@
 {
     "pre-alpha": {
+        "0.3.4": [
+            "Potential fix for infinite loading on clients joining servers",
+            "Fixed singleplayer being unable to use commands"
+        ],
         "0.3.3": [
             "Fixed server crash on startup"
         ],

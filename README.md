@@ -5,6 +5,10 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
+## Pre-Alpha 0.3.4
+- Potential fix for infinite loading on clients joining servers
+- Fixed singleplayer being unable to use commands
+
 ## Pre-Alpha 0.3.3
 - Fixed server crash on startup
 
