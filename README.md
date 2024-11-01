@@ -5,6 +5,9 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
+## Pre-Alpha 0.3.3
+- Fixed server crash on startup
+
 ## Pre-Alpha 0.3.2 (The Multiplayer Update)
 - Added Multiplayer
 - Added account authentication

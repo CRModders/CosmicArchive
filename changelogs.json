@@ -1,5 +1,8 @@
 {
     "pre-alpha": {
+        "0.3.3": [
+            "Fixed server crash on startup"
+        ],
         "0.3.2": [
             "Added Multiplayer",
             "Added account authentication",
