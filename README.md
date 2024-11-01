@@ -5,6 +5,29 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
+## Pre-Alpha 0.3.2 (The Multiplayer Update)
+- Added Multiplayer
+- Added account authentication
+- Servers can whitelist, add operator status and ban players
+- Added ban, ban-ip, unban, unban-ip, kick, op, and de-op commands
+- Commands are now synchronized
+- Server settings can have a default gamemode for players
+- Server now only sends entity positions when they change
+- Added brick blocks
+
+And now for the notable changes of the previous discord-only pre-releases leading up to this one:
+- Fixed credits using the wrong charset
+- Flying downwards in no-clip is now the same speed as going up
+- Fixed block loot drops not dropping on center
+- Fixed backspace in chat not deleting on the cursor
+- Fixed creative mode consuming blocks in inventory
+- Item catalog gives different amounts depending on if shift clicking or not
+- Fixed a bug where block with inverted normals had no bounding box
+- Air blocks have their own block event separate from default
+- The environment variable ITCHIO_API_KEY will now accept itch API keys as well as JWT keys
+
+Also, @Lee I officially owe you a game of SCP. Yes, this is an important part of the changelog, you know why.
+
 ## Pre-Alpha 0.3.2-pre10
 *I'm almost certain this is the last before the official release, just need to do some config setup + auth if nothing goes wrong*
 - Air blocks now have their own block event separate from default
