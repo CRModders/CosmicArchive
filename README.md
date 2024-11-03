@@ -6,15 +6,15 @@ An Archive Of Every Cosmic Reach Version
 # Changelogs
 
 ## Pre-Alpha 0.3.5
-- Servers must update in order to play in non-offline mode.
+__Servers *must* update in order to play in non-offline mode.__
 - Fixed /tp command breaking in singleplayer
 - Added server setting for enabling/disabling pvp
 - The tick running and world loading threads will now sleep when no one is online
 - The tick running thread will now sleep in between ticks instead of busy-waiting
 - Chat is now cleared when leaving a world or server
 - Fixed mouse disappearing when disconnecting from server
-- Security: Packets from unauthenticated clients are now rejected.
-- Security: The authentication server is now HTTPS. This is a breaking change for multiplayer, previous versions can no longer authenticate as a result.
+- **Security**: Packets from unauthenticated clients are now rejected.
+- **Security**: The authentication server is now HTTPS. This is a breaking change for multiplayer, previous versions can no longer authenticate as a result.
 
 ## Pre-Alpha 0.3.4
 - Potential fix for infinite loading on clients joining servers
