@@ -5,6 +5,9 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
+## Pre-Alpha 0.3.6
+- Fix authenticating handshake while connecting to servers for the executable builds via the itch client
+
 ## Pre-Alpha 0.3.5
 __Servers *must* update in order to play in non-offline mode.__
 - Fixed /tp command breaking in singleplayer
