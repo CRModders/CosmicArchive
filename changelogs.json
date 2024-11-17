@@ -1,5 +1,20 @@
 {
     "pre-alpha": {
+        "0.3.7": [
+            "Added the fluid vacuum",
+            "Added sounds for wood and glass-like blocks",
+            "Added `/zonespawn` command",
+            "Water blocks can now be placed on other water blocks",
+            "Can now uncraft packed lunar soil",
+            "Adjusted interceptor drops: fewer medkits, more blocks",
+            "Items now prioritize slots with existing stacks when picked up",
+            "Fixed bug where player would desync on respawn",
+            "`base:set_block_state_params` now works on the target block rather than the event source block",
+            "Servers no longer accept unknown blocks",
+            "Servers now reject multiple protocol syncs",
+            "Servers now silently ignore connection resets from the client",
+            "@Language Contributor A new translation key for the fluid vacuum has been added. Also as per the recent Japanese language additions, many characters are yet to be added in the font files, additions welcome!"
+        ],
         "0.3.6": [
             "Fix authenticating handshake while connecting to servers for the executable builds via the itch client"
         ],
