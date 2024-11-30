@@ -1,5 +1,9 @@
 {
     "pre-alpha": {
+        "0.3.9": [
+            "Fixed crash when starting game for AMD and Intel graphics",
+            "Fixed offline accounts being unable to save in singleplayer"
+        ],
         "0.3.8": [
             "Contribution: Player usernames now appear above the player!",
             "Added fog",

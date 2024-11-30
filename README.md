@@ -5,6 +5,10 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
+## Pre-Alpha 0.3.9
+- Fixed crash when starting game for AMD and Intel graphics
+- Fixed offline accounts being unable to save in singleplayer
+
 ## Pre-Alpha 0.3.8
 - Contribution: Player usernames now appear above the player!
 - Added fog
