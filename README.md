@@ -5,6 +5,14 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
+## Pre-Alpha 0.3.8
+- Contribution: Player usernames now appear above the player!
+- Added fog
+- Minor batch rendering optimization
+- Disable shared indices for windows intel iGPU (potential temporary fix for integrated graphics issues)
+- Fixed windows hosted multiplayer servers not saving players
+- Fixed random crash when exiting to the main menu
+
 ## Pre-Alpha 0.3.7
 - Added the fluid vacuum
 - Added sounds for wood and glass-like blocks
