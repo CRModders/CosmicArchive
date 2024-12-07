@@ -1,5 +1,19 @@
 {
     "pre-alpha": {
+        "0.3.10": [
+            "Fade-out fog and environmental fog are now two different things",
+            "Less fog shadow when terrain is higher",
+            "Items and mobs are now affected by fog",
+            "Improved chunk loading order",
+            "Chat no longer stores duplicate entries",
+            "Use int instead of float for packed numbers on non mac systems",
+            "Added `effectiveBreakingTags` to item data",
+            "Last multiplayer address is now saved",
+            "Fixed missing top chunks while generating world",
+            "Fixed crash while drawing text of null strings",
+            "Fixed localization credits missing",
+            "Fixed world creation freezing when itch account does not login on time"
+        ],
         "0.3.9": [
             "Fixed crash when starting game for AMD and Intel graphics",
             "Fixed offline accounts being unable to save in singleplayer"
