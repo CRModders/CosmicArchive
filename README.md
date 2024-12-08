@@ -5,6 +5,9 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
+## Pre-Alpha 0.3.11
+- Hotfix to fix the game crashing without an Itch API key
+
 ## Pre-Alpha 0.3.10
 - Fade-out fog and environmental fog are now two different things
 - Less fog shadow when terrain is higher
