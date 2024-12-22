@@ -5,6 +5,17 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
+## Pre-Alpha 0.3.12
+- Added music, with 11 different tracks by 4 different artists
+- Added sliders in the option menu for music and sound
+- Added ice
+- Added /say command
+- Added friction field for block states
+- You can now smelt ice and snow in the furnace to get water
+- Disabled item catalog for survival players
+- The block for Aluminium has been renamed to Block of Aluminium for English
+- @Language Contributor make sure you treat the Aluminium translations in the same way
+
 ## Pre-Alpha 0.3.11
 - Hotfix to fix the game crashing without an Itch API key
 
