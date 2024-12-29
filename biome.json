@@ -1,0 +1,7 @@
+{
+    "formatter": {
+        "lineWidth": 140,
+        "indentWidth": 4,
+        "indentStyle": "space"
+    }
+}
