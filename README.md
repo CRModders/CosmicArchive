@@ -5,6 +5,17 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
+## Pre-Alpha 0.3.14
+- Hotfix to fix server crashes when unloading text displays
+- Hotfix to fix mac crashing when loading the text display shader
+
+## Pre-Alpha 0.3.13
+- Added 'Text Displays', a sign which can change colour and size of the text
+- Added /playercount and /who commands
+- Fixed only 4 out of 11 songs being played... now enjoy the rest of the soundtrack!
+- Fixed chat messages being able to contain new lines
+- Fixed various block UV rotation issues
+
 ## Pre-Alpha 0.3.12
 - Added music, with 11 different tracks by 4 different artists
 - Added sliders in the option menu for music and sound
