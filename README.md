@@ -5,6 +5,26 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
+## Pre-Alpha 0.3.15
+- Added Latex, extracted when you use the fluid vacuum on a tree log
+- Added rubber blocks, a block which bounces you when you fall on it
+- Added bounciness field to block states
+- Added /post_build/dependency_lists.txt to .jar file
+- For modders: added music packets to change the song playing client-side
+- Item use is now server-side
+- Split vertical slabs into seamed and seamless versions ( For data mods, this is a breaking change, update your blocks, look at base blocks for examples! )
+- No longer have zero friction when no-clipping mid-air
+- Fixed medkits not working in multiplayer
+- Fixed entities in the same chunk as the player not loading
+- Fixed water items not rendering when dropped
+- Fixed the UV of the negative Z-axis face being flipped
+- Pick block in creative mode no longer gets 100x items
+- Fixed bug where non-english text would not render on signs
+- Fixed logging using the wrong year format
+- Fixed commands being unable to display multiple lines in multiplayer
+- Fixed /kill not working in creative
+- Fixed client-side crashing on null world
+
 ## Pre-Alpha 0.3.14
 - Hotfix to fix server crashes when unloading text displays
 - Hotfix to fix mac crashing when loading the text display shader
