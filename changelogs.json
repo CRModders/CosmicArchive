@@ -1,5 +1,17 @@
 {
     "pre-alpha": {
+        "0.3.16": [
+            "Added Block of Gold",
+            "Changed the colour palette of gold ingots and gold medkits",
+            "Added `/clear` command to clear the inventory of a player",
+            "Language button is now an icon on the bottom right of the main menu",
+            "For modders: RuntimeInfo.java has a String field called `gameVariant` for modloaders to override.",
+            "`xor` condition added for canPlaceChecks and crafting recipes",
+            "Can now set the offline name via an environment variable: `COSMIC_REACH_OFFLINE_DISPLAY_NAME`",
+            "Fixed the preamble screen moving the ok button depending on screen size",
+            "Fixed credits menu not fast-forwarding when holding space or control",
+            "Fixed crashes relating to where the player was looking at blocks"
+        ],
         "0.3.15": [
             "Added Latex, extracted when you use the fluid vacuum on a tree log",
             "Added rubber blocks, a block which bounces you when you fall on it",
