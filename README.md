@@ -5,6 +5,11 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
+## pre-Alpha 0.3.19
+- Fixed being stuck jumping in a single direction
+- Fixed items being flicked in the wrong direction
+- Increased FOV while sprinting
+
 ## Pre-Alpha 0.3.18
 - Fixed movement speed being hardcoded for 60FPS
 
