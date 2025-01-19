@@ -1,5 +1,20 @@
 {
     "pre-alpha": {
+        "0.3.17": [
+            "Added randomized pitch to sound block events (breaking / placing)",
+            "Rubber balls now bounce on the ground",
+            "Changed ingot textures",
+            "Forests now have different tree densities",
+            "Entity momentum is now preserved properly",
+            "Added day counter to F3 menu",
+            "Tick 0 is now the morning rather than noon",
+            "Added launcher name to crash screen via environment variable `COSMIC_REACH_LAUNCHER_NAME`",
+            "Crouching in water descends the player faster",
+            "Reduced rapid creation of new entity chunks when entities fall into the void",
+            "Fixed font for non-english characters",
+            "Reduced hardness of tree logs",
+            "Got rid of font size limit on TextModelInstance"
+        ],
         "0.3.16": [
             "Added Block of Gold",
             "Changed the colour palette of gold ingots and gold medkits",
