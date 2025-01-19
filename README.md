@@ -5,6 +5,9 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
+## Pre-Alpha 0.3.18
+- Fixed movement speed being hardcoded for 60FPS
+
 ## Pre-Alpha 0.3.17
 - Added randomized pitch to sound block events (breaking / placing)
 - Rubber balls now bounce on the ground
