@@ -5,6 +5,13 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
+## Pre-Alpha 0.3.19b
+- Player moves fast on ice while jumping again
+- UI changes colour with world lighting when inventory is closed
+- Can jump on a single block without overshooting
+- Prevent crash when text display cannot find the underlying blockstate
+- Fixed ingot textures having semitransparent pixels
+
 ## Pre-Alpha 0.3.19
 - Fixed being stuck jumping in a single direction
 - Fixed items being flicked in the wrong direction
