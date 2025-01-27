@@ -1,5 +1,27 @@
 {
     "pre-alpha": {
+        "0.3.20":[
+            "Added doors",
+            "Interceptors now have emissive textures",
+            "Interceptors now change textures via animations rather than code directly",
+            "Friendly interceptor traps now have a consistent colour with the flying interceptors",
+            "Gold ore texture is now consistent with the bar and block textures",
+            "Fixed jump running being dependent on FPS",
+            "Disabled shared indices on non-Nvidia GPUs",
+            "Improved batch renderer reliability",
+            "Improved batch renderer reliability",
+            "Added new block event: base:copy_block_state_params- this copies parameters from one block to another",
+            "Added new block event: base:cycle_block_state_params- this cycles between parameter values",
+            "Added if condition to block events. A block event will only trigger if the condition is true",
+            "Added condition root: srcPlayer: information about the player who caused the trigger, if any",
+            "Has gamemode: information about the gamemode of a player",
+            "Has allows_items_drop_on_break: Whether the gamemode is allowed to drop items when a block is broken",
+            "Added condition root: srcBlockState: information about the block causing the trigger",
+            "Has has_tag: Whether a blockstate contains a tag or not",
+            "Added condition root: block_at: information about a block at a given position",
+            "Treated the same as the blockstate condition, but has xOff, yOff, and zOff parameters",
+            "The canPlace predicate is subject to change to be more in line with the if conditions, so be aware!"
+        ],
         "0.3.19b": [
             "Player moves fast on ice while jumping again",
             "UI changes colour with world lighting when inventory is closed",
