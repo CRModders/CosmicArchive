@@ -5,6 +5,19 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
+## Pre-Alpha 0.3.21
+- Added `defaultProperties` to block states
+- Can now screenshot when chat is opened
+- Added `has_param`, `has_block_id`, `has_blockstate_id` as predicates for block states (such as `srcBlockState` and `block_at`)
+- Added `COSMIC_REACH_USE_SHARED_INDICES` environment variable
+- Fixed predicates "falling through", such that an `and` always triggers an `or`, which always triggers an `xor`
+- Fixed door models and UVs
+- Fixed seamed stair UVs
+- Fixed poplar leaves wrongly dropping items in creative
+- Fixed Mac not rendering
+- Fixed shader validation wrongly erroring on comments
+- Fixed shaders not handling CRLF properly
+
 ## Pre-Alpha 0.3.20
 - Added doors
 - Interceptors now have emissive textures

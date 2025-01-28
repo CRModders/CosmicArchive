@@ -1,8 +1,24 @@
 {
     "latest": {
-        "pre_alpha": "0.3.20"
+        "pre_alpha": "0.3.21"
     },
     "versions": [
+        {
+            "id": "0.3.21",
+            "type": "release",
+            "phase": "pre_alpha",
+            "releaseTime": 1738108800,
+            "client": {
+                "url": "https://raw.githubusercontent.com/CRModders/CosmicArchive/main/versions/pre-alpha/0.3.21/client/Cosmic-Reach-0.3.21.jar",
+                "sha256": "fb7e466ce9704bc19024925aa1cbb5c2c33d9a69276073a3f2402b5fb3176389",
+                "size": 54194948
+            },
+            "server": {
+                "url": "https://raw.githubusercontent.com/CRModders/CosmicArchive/main/versions/pre-alpha/0.3.21/server/Cosmic-Reach-Server-0.3.21.jar",
+                "sha256": "b490e85d7bf32b6686a45f52ade577d6b359aab464a24ada9e878a2c64f0a23a",
+                "size": 13829119
+            }
+        },
         {
             "id": "0.3.20",
             "type": "release",
