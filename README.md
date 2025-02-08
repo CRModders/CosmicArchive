@@ -5,6 +5,13 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
+## Pre-Alpha 0.3.22
+- C4 now has particles when blowing up
+- Added laser gun
+- Can shoot lasers at C4 to blow up from afar
+- Fixed bug where flying players would be treated as perpetually falling server-side
+- Fixed multiple issues regarding entities loading in and hitboxes
+
 ## Pre-Alpha 0.3.21
 - Added `defaultProperties` to block states
 - Can now screenshot when chat is opened
