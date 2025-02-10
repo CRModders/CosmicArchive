@@ -5,6 +5,18 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
+## Pre-Alpha 0.3.23
+This one is a little bit special, it comes with an animated trailer by @JoeFly ! Send him some appreciation!
+TBD: include trailer
+- Added the Laser Interceptor, a slightly uncommon drone which shoots lasers at you from a distance!
+- Increased durability of laser guns to 500 uses
+- Laser projectiles now use the onLaserHit block event trigger rather than onExplode
+- Laser particle texture is now white and tinted via the particle system
+- Asset loading now supports subfolders in asset paths and ids
+- Fixed crash with multiple C4 Explosions at once
+- Fixed particle acceleration not resetting for y and z axis
+- Fixed particles crashing upon serialisation in multiplayer
+
 ## Pre-Alpha 0.3.22
 - C4 now has particles when blowing up
 - Added laser gun
