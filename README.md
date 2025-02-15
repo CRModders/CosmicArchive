@@ -37,6 +37,12 @@ TBD: include trailer
 - Fixed shader validation wrongly erroring on comments
 - Fixed shaders not handling CRLF properly
 
+## Pre-Alpha 0.3.20c
+- Unknown changes. MacOS testing version.
+
+## Pre-Alpha 0.3.20b
+- Unknown changes. MacOS testing version.
+
 ## Pre-Alpha 0.3.20
 - Added doors
 - Interceptors now have emissive textures

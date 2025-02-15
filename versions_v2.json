@@ -52,6 +52,28 @@
             }
         },
         {
+            "id": "0.3.20c",
+            "type": "snapshot",
+            "phase": "pre_alpha",
+            "releaseTime": 1737951600,
+            "client": {
+                "url": "https://raw.githubusercontent.com/CRModders/CosmicArchive/main/versions/pre-alpha/0.3.20c/client/Cosmic-Reach-0.3.20c.jar",
+                "sha256": "6cbc72c3b09392f7f229d5e6190c7cf7638114b1cfd7958dceca8eeaf19e7f42",
+                "size": 54189805
+            }
+        },
+        {
+            "id": "0.3.20b",
+            "type": "snapshot",
+            "phase": "pre_alpha",
+            "releaseTime": 1737951600,
+            "client": {
+                "url": "https://raw.githubusercontent.com/CRModders/CosmicArchive/main/versions/pre-alpha/0.3.20b/client/Cosmic-Reach-0.3.20b.jar",
+                "sha256": "d489fd4ab862329fc36dfd2f7ba0714008c1412ce44bc7075cf3e78116c522c2",
+                "size": 54189807
+            }
+        },
+        {
             "id": "0.3.20",
             "type": "release",
             "phase": "pre_alpha",
