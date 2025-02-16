@@ -5,6 +5,19 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
+## Pre-Alpha 0.3.24
+- Added the Laser Emitter- a block that shoots lasers when interacted with or shot at
+- Boomboxes are now triggered when lasers land on them
+- Added the `random` predicate for `if` conditions.
+- Can have the `percentChance` or `normalChance` parameter, which defines the likelihood of a trigger happening
+- Lasers now refract in water and glass
+- Interceptors no longer target the player if they are in creative
+- Added the `base:block_entity_signal` block event, to tell a block entity to perform an action
+- Saplings now use a 2D model for the held item
+- Spawning items from the item catalog synchronizes in multiplayer properly
+- Various 'if' predicate fixes
+- Fixed lasers having buoyancy
+
 ## Pre-Alpha 0.3.23
 This one is a little bit special, it comes with an animated trailer by @JoeFly ! Send him some appreciation!
 TBD: include trailer
