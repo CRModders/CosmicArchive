@@ -1,5 +1,17 @@
 {
     "pre-alpha": {
+        "0.3.26": [
+            "Added fall damage",
+            "Added crafting recipe for the laser emitter",
+            "Improved the laser emitter model",
+            "Traps no longer activate in creative mode",
+            "Fixed the triangle bug and enable shared indices for all devices",
+            "Fixed explosion particles not appearing in multiplayer",
+            "Fixed the bug where breaking a door only broke one half",
+            "Fixed doors generating debug blocks",
+            "Fixed the not predicate not loading the sub predicate properly",
+            "Fixed crash with null entity chunks"
+        ],
         "0.3.25": [
             "Slightly increased the gamma of shaders",
             "Fixed particles glitching out on integrated GPUs",
