@@ -5,7 +5,7 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
-## Pre-Alpha 0.3.24
+## Pre-Alpha 0.3.25
 - Slightly increased the gamma of shaders
 - Fixed particles glitching out on integrated GPUs
 - Fixed bug where two laser emitters next to each other would crash the game
