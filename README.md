@@ -6,6 +6,14 @@ An Archive Of Every Cosmic Reach Version
 # Changelogs
 
 ## Pre-Alpha 0.3.24
+- Slightly increased the gamma of shaders
+- Fixed particles glitching out on integrated GPUs
+- Fixed bug where two laser emitters next to each other would crash the game
+- Fixed `not` predicate being missing
+- Fixed bug where particles would crash the client when made server-side
+- Fixed bug where entities would randomly crash via an IndexOutOfBounds exception
+
+## Pre-Alpha 0.3.24
 - Added the Laser Emitter- a block that shoots lasers when interacted with or shot at
 - Boomboxes are now triggered when lasers land on them
 - Added the `random` predicate for `if` conditions.
