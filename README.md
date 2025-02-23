@@ -5,6 +5,26 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
+## Pre-Alpha 0.3.27
+- Added sun and moon for the dynamic sky
+- Added laser splitter, which is another form of the laser emitter accessed with the cycle item hotkey
+- Laser Emitters can now be pointed upwards or downwards
+- Doors now stop lasers
+- Held items are now visually influenced by the player's velocity
+- Dropped items now take the player's velocity into account
+- Rubber blocks reduce fall damage by 90%
+- Lights now toggle with lasers
+- Tamed interceptors now follow the player in creative
+- Improved controller mapping and fixed the controller deadzone drift bug
+- Server port can now be set in gameSettings.json
+- Fixed bug where you get massive fall damage while wall sliding
+- Fixed bug where you cannot break desynced blocks in multiplayer
+- Fixed disappearing player bug in multiplayer
+- Fixed lasers getting stuck visually on screen
+- Fixed blocks with smaller bounds being unable to be placed in the same block as the player
+- Fixed laser emitters dropping the block state depending on the direction
+- Fixed laser gun crashing in null chunks
+
 ## Pre-Alpha 0.3.26
 - Added fall damage
 - Added crafting recipe for the laser emitter
