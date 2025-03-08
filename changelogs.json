@@ -38,7 +38,7 @@
         ]
     },
     "pre-alpha": {
-        "0.2.27": [
+        "0.3.27": [
             "Added sun and moon for the dynamic sky",
             "Added laser splitter, which is another form of the laser emitter accessed with the cycle item hotkey",
             "Laser Emitters can now be pointed upwards or downwards",
