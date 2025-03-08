@@ -1,6 +1,7 @@
 {
     "latest": {
-        "pre_alpha": "0.4.0"
+        "alpha": "0.4.0",
+        "pre_alpha": "0.3.27"
     },
     "versions": [
         {
