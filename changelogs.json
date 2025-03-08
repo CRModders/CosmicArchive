@@ -1,4 +1,42 @@
 {
+    "alpha": {
+        "0.4.0": [
+            "Added player model with custom skins!",
+            "The skin can be previewed and set on the main menu, and can be seen by other players in multiplayer",
+            "Can now swap items to hotbar in inventory using the number keys",
+            "Added upside down stairs",
+            "Added block of coal",
+            "Added torches - an early game lighting option crafted with sticks and coal which burns out over time",
+            "Added a void world generation option",
+            "Added a music frequency slider to the options menu to change how often music plays",
+            "Greatly improved the look of fog",
+            "Improved lighting memory allocation",
+            "Entity regions are now culled on disk where there are no entities left",
+            "Improved controller mapping",
+            "Items can now have tags",
+            "canPlace predicate is now consistent with other predicates, this is a breaking change, update your data mods!",
+            "Added queue option to base:runTrigger- this defers execution until the end of the trigger",
+            "Increased the range of item pickups",
+            "The Earth world generation is more flat and sharp",
+            "Reduced the damage dealt to mobs by hitting to 1",
+            "Adjusted ore generation so that iron and bauxite no longer spawn on the surface",
+            "C4 drops items when exploding and damages nearby entities",
+            "Rubber block items now are just as bouncy as their rubber item",
+            "Various entity model UV and animation fixes",
+            "Fixed block duplication glitch in multiplayer",
+            "Fixed items disappearing when shift clicking into crates in multiplayer",
+            "Fixed horrible memory leak from using a controller",
+            "Fixed bug where you could wrongly place blocks through other blocks like vertical slabs and doors",
+            "Fixed an invisible player issue",
+            "Fixed laser splitters dropping debug blocks",
+            "Fixed players stuttering while moving in multiplayer",
+            "Fixed music lag bug",
+            "Removed redundant id field from entity models",
+            "Removed no clip hotkey",
+            "Removed the naive renderer as an option",
+            "Removed \"gravel caves\" from the Earth world generator, gravel spawns at the surface properly"
+        ]
+    },
     "pre-alpha": {
         "0.2.27": [
             "Added sun and moon for the dynamic sky",
