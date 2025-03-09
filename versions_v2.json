@@ -560,7 +560,7 @@
                 "size": 28584764
             },
             "server": {
-                "url": "https://raw.githubusercontent.com/CRModders/CosmicArchive/main/versions/pre-alpha/0.3.2-pre6/server/Cosmic%20Reach-Server-0.3.2-pre6.jar",
+                "url": "https://raw.githubusercontent.com/CRModders/CosmicArchive/main/versions/pre-alpha/0.3.2-pre6/server/Cosmic-Reach-Server-0.3.2-pre6.jar",
                 "sha256": "1a2c1f71980d51efe663b223bb8c47458cc12331ea174bf3abeed9c4964353e4",
                 "size": 13049042
             }
