@@ -5,6 +5,15 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
+## Alpha 0.4.1
+A small hotfix patch to fix some multiplayer related issues
+- Fixed being unable to join multiplayer without a custom skin
+- Fixed FPS running at 10 for those who previously uncapped the frame limit
+- Fixed skin loading issue on windows
+- Fixed laser interceptor inaccuracy from incorrect laser refraction
+- Fixed crash from deserializing skins in multiplayer
+- Fixed world and networking desyncing player in server
+
 ## Alpha 0.4.0
 - Added player model with custom skins!
 - The skin can be previewed and set on the main menu, and can be seen by other players in multiplayer
