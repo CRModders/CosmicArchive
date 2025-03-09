@@ -14,7 +14,8 @@ An Archive Of Every Cosmic Reach Version
 - Added torches - an early game lighting option crafted with sticks and coal which burns out over time
 - Added a void world generation option
 - Added a music frequency slider to the options menu to change how often music plays
-- 
+
+
 - Greatly improved the look of fog
 - Improved lighting memory allocation
 - Entity regions are now culled on disk where there are no entities left
@@ -28,7 +29,8 @@ An Archive Of Every Cosmic Reach Version
 - Adjusted ore generation so that iron and bauxite no longer spawn on the surface
 - C4 drops items when exploding and damages nearby entities
 - Rubber block items now are just as bouncy as their rubber item
-- 
+
+
 - Various entity model UV and animation fixes
 - Fixed block duplication glitch in multiplayer
 - Fixed items disappearing when shift clicking into crates in multiplayer
@@ -38,7 +40,8 @@ An Archive Of Every Cosmic Reach Version
 - Fixed laser splitters dropping debug blocks
 - Fixed players stuttering while moving in multiplayer
 - Fixed music lag bug
-- 
+
+
 - Removed redundant id field from entity models
 - Removed no clip hotkey
 - Removed the naive renderer as an option
