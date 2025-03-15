@@ -5,6 +5,36 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
+## Alpha 0.4.2
+- Added sounds for sand / gravel / lunar soil
+- Sand and gravel are now falling blocks
+- Coconuts also fall when the leaf above is broken
+- Player now has a prone animation
+- Can now search with the item catalog, and can now search by `tag: ` as well
+- Added the laser switch, a block which when toggled either blocks lasers or lets them through
+
+
+- Added `addToQueue` and `createSubqueue` fields to `base:run_trigger` block event
+- Item cycling now works in multiplayer
+- World generating thread now sleeps when not needed
+- Server now shuts down when the ticking thread crashes
+- Added `rotation` parameter to blockstates, `rotXZ` is now **deprecated**!, rewrite your datamods to support this future change
+- Removed redundant `[default]` in blockstate save keys, saving around 5% of storage in new chunks
+- Increased depth buffer to 24 bits
+
+
+- Fixed stuttering FOV bug while sprinting
+- Fixed player sinking in water when noclipped
+- Fixed entities always being red after being hit in multiplayer
+- Fixed entities being unlit in multiplayer
+- Fixed flickering of blocks and entities when away from 0, 0
+- Fixed debug menu showing "Pre-Alpha" in front of the version
+- Fixed server resetting the zone of the player on reconnect
+- Fixed laser guns hurting players when PvP is disabled
+
+
+- Removed screenshot functionality on controllers for now to prevent the screenshot spam bug
+
 ## Alpha 0.4.1
 A small hotfix patch to fix some multiplayer related issues
 - Fixed being unable to join multiplayer without a custom skin
