@@ -5,6 +5,9 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
+## Alpha 0.4.3
+- Fixed world loading getting stuck on load
+
 ## Alpha 0.4.2
 - Added sounds for sand / gravel / lunar soil
 - Sand and gravel are now falling blocks

@@ -1,5 +1,8 @@
 {
     "alpha": {
+        "0.4.3": [
+            "Fixed world loading getting stuck on load"
+        ],
         "0.4.2": [
             "Added sounds for sand / gravel / lunar soil",
             "Sand and gravel are now falling blocks",
