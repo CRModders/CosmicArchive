@@ -5,6 +5,19 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
+## Alpha 0.4.4
+- Added `updateSrcBlockState` to `base:run_trigger`
+- Fixed null pointer on joining world
+- Fixed players being unable to join servers they haven't before
+- Potential mac fix for rendering the player in the main menu
+- Fixed `rotXZ` overwriting `rotation`
+- Fixed jiggly water in inventory
+- Fixed block selection being affected by fog
+- Fixed items disappearing on the ground
+- Fixed torch rotation
+- Fixed doors unsyncing their top and bottom halves
+- Fixed null pointer regarding the player's cursor
+
 ## Alpha 0.4.3
 - Fixed world loading getting stuck on load
 
