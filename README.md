@@ -5,6 +5,19 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
+## Alpha 0.4.5
+- Added a jetpack, used for hovering up to 20 blocks up to aid with building!
+  - The jetpack is toggled with double jump, and can be temporarily disabled by crouching
+    - For now, there is no fuel requirement, but this will be added in the future
+    - To use the jetpack, you'll have to equip it in your inventory first, with the slot on the far left
+- The crafting menu has been overhauled, replacing grid crafting with choosing the recipe directly from the menu.
+  - This is a basic implementation of the new system, and improvements will be made, and I will be looking for feedback
+    - Old grid styled crafting recipes have been deprecated and while ignored for now, will not load properly in the future, please update your datamods!
+- Added flying animation for creative mode
+- Screenshot message is rendered at the bottom when the debug menu is opened
+- Various animation fixes
+- Fixed AO on blocks
+
 ## Alpha 0.4.4
 - Added `updateSrcBlockState` to `base:run_trigger`
 - Fixed null pointer on joining world
