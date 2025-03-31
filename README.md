@@ -5,6 +5,13 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
+## Alpha 0.4.6
+- The default skin has been redesigned, featuring a more vibrant colour palette
+- Fixed animation related crash
+- Fixed crash from bad json of hungarian translation
+- Fixed crashing while crafting the first time you load into a world
+- The crash screen now allows for opening the save directory
+
 ## Alpha 0.4.5
 - Added a jetpack, used for hovering up to 20 blocks up to aid with building!
   - The jetpack is toggled with double jump, and can be temporarily disabled by crouching
