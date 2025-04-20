@@ -5,6 +5,22 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
+## Alpha 0.4.7
+- Added the Generator and the Electric Furnace
+- The Boombox now has a new UI which allows it to change the note it's playing
+- Overhauled the world generation
+ - Temperature is no longer based on latitude, but on 2D noise instead
+  - Added tectonic noise to better distribute mountains, flat areas and islands
+  - Added bushes generating in forests
+  - Added tooltips to the creative item catalog
+- Depleted torches now drop sticks
+- Reduced the volume of the jetpack noises
+- Offline accounts can now have names set server-side
+- Game no longer pauses when in inventory or if chat is open while the window is unfocused
+- Fixed the mouse snapping when closing inventory while mouse is off-screen
+- Fixed doors duplicating when blown up
+- Fixed random entity lighting crash
+
 ## Alpha 0.4.6
 - The default skin has been redesigned, featuring a more vibrant colour palette
 - Fixed animation related crash
