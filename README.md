@@ -5,6 +5,24 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
+## Alpha 0.4.8
+- Added Pistons and Suction Pistons
+  - Pistons are activated by lasers and can push blocks (including block entities)
+    - Suction pistons pull blocks when they retract
+- Added Clay
+  - Clay can be smelted into bricks
+- Added shale
+  - Shale can be used as fuel or be crafted into asphalt when combined with gravel
+- Added new block events: `base:push_blocks` and `base:pull_blocks`
+- The block event `base:replace_block_state` now has two new fields: `srcDirectionParam` (which modifies the offset) and `copiedParams` which copies parameters from the source block to the replacing block state.
+- All metal storage blocks and block of rubber recipes have been changed to use only 1 item as opposed to 9
+- Increased number of torches from 1 to 3 in crafting recipe
+- Removed bricks and asphalt from interceptor loot table
+- Various region file optimizations to decrease the size of files and prepare for future data
+- Gravel no longer generates ores
+- Fix bug where falling blocks would not render away from 0,0
+- Fixed bug where global temperatures were too cold in world generation
+
 ## Alpha 0.4.7
 - Added the Generator and the Electric Furnace
 - The Boombox now has a new UI which allows it to change the note it's playing
