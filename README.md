@@ -5,6 +5,17 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
+## Alpha 0.4.9
+- Added a new item: the flamethrower: which shoots fire on the ground that constantly damages mobs
+- Added a new mob: The Incinerator, an uncommon tough mob that shoots fire! When defeated, it may drop a flamethrower.
+- Massively reduced fuel time of shale
+- Improved `assets/post_build/dependency_lists.txt` by adding git versions of save library and localization
+- Fixed placing blocks on the -X/-Z axis below
+- Fixed piston UVs
+- Fixed laser emitters having a directional delay
+- Fixed piston push limit being 11 instead of 12
+- Fixed piston heads wrongly showing up in the catalog
+
 ## Alpha 0.4.8
 - Added Pistons and Suction Pistons
   - Pistons are activated by lasers and can push blocks (including block entities)
