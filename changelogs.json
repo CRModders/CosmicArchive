@@ -148,6 +148,15 @@
             "Removed no clip hotkey",
             "Removed the naive renderer as an option",
             "Removed \"gravel caves\" from the Earth world generator, gravel spawns at the surface properly"
+        ],
+        "0.4.10": [
+            "Overhauled the cave system, adding multiple new types of caves!",
+            "Added Rubies, which can only be found in magma caverns",
+            "Increased ore frequency underground",
+            "Adjusted crafting recipes of laser gun and switch to require rubies",
+            "Removed ingots and basalt from all mob loot",
+            "Reduced chances of getting a weapon from Incinerators and Laser Interceptors",
+            "Fixed bug of falling into the ground when loading in the world"
         ]
     },
     "pre-alpha": {
@@ -346,7 +355,9 @@
             "The block for Aluminium has been renamed to `Block of Aluminium` for English",
             "@Language Contributor make sure you treat the Aluminium translations in the same way"
         ],
-        "0.3.11": ["Hotfix to fix the game crashing without an Itch API key"],
+        "0.3.11": [
+            "Hotfix to fix the game crashing without an Itch API key"
+        ],
         "0.3.10": [
             "Fade-out fog and environmental fog are now two different things",
             "Less fog shadow when terrain is higher",
@@ -388,7 +399,9 @@
             "Servers now silently ignore connection resets from the client",
             "@Language Contributor A new translation key for the fluid vacuum has been added. Also as per the recent Japanese language additions, many characters are yet to be added in the font files, additions welcome!"
         ],
-        "0.3.6": ["Fix authenticating handshake while connecting to servers for the executable builds via the itch client"],
+        "0.3.6": [
+            "Fix authenticating handshake while connecting to servers for the executable builds via the itch client"
+        ],
         "0.3.5": [
             "__Servers *must* update in order to play in non-offline mode.__",
             "Fixed `/tp` command breaking in singleplayer",
@@ -400,8 +413,13 @@
             "**Security**: Packets from unauthenticated clients are now rejected.",
             "**Security**: The authentication server is now HTTPS. This is a breaking change for multiplayer, previous versions can no longer authenticate as a result."
         ],
-        "0.3.4": ["Potential fix for infinite loading on clients joining servers", "Fixed singleplayer being unable to use commands"],
-        "0.3.3": ["Fixed server crash on startup"],
+        "0.3.4": [
+            "Potential fix for infinite loading on clients joining servers",
+            "Fixed singleplayer being unable to use commands"
+        ],
+        "0.3.3": [
+            "Fixed server crash on startup"
+        ],
         "0.3.2": [
             "Added Multiplayer",
             "Added account authentication",
@@ -436,7 +454,9 @@
             "Player doesn't spawn in multiplayer until the world is fully loaded for the render distance",
             "Various stability fixes"
         ],
-        "0.3.2-pre8": ["Quick hotfixes to make the world loader more stable"],
+        "0.3.2-pre8": [
+            "Quick hotfixes to make the world loader more stable"
+        ],
         "0.3.2-pre7": [
             "*This is probably the **last** discord-only pre-release before the official update is made available to all.*",
             "Fixed interacting with inventory in singleplayer causing crash",
@@ -473,8 +493,14 @@
             "No clip flying down is now the same speed as flying up",
             "Fixed block positions causing crashes in negative coordinates"
         ],
-        "0.3.2-pre4": ["Fix default path for windows causing crash on first save", "This server is compatible with 0.3.2-pre2 clients"],
-        "0.3.2-pre3": ["Potential fix for windows", "**This server is compatible with 0.3.2-pre2 clients**"],
+        "0.3.2-pre4": [
+            "Fix default path for windows causing crash on first save",
+            "This server is compatible with 0.3.2-pre2 clients"
+        ],
+        "0.3.2-pre3": [
+            "Potential fix for windows",
+            "**This server is compatible with 0.3.2-pre2 clients**"
+        ],
         "0.3.2-pre2": [
             "Another discord-only development release, to hold you over for those who really can't wait for the fully fledged update.",
             "Chat is limited to 256 chars per message",
@@ -531,7 +557,9 @@
             "Fixed respawning whenever the game restarts",
             "Fixed camera getting stuck looking straight down when away from the world origin"
         ],
-        "0.2.3": ["Fix player respawning every time the world is loaded"],
+        "0.2.3": [
+            "Fix player respawning every time the world is loaded"
+        ],
         "0.2.2": [
             "Fix crash in F3 debug menu when not looking at blocks",
             "Potential fix for cropped screenshots on certain mac computers"
@@ -561,7 +589,10 @@
             "Fixed modded items and recipes not loading on windows",
             "Removed <code>generateSlabs</code> flag from block states"
         ],
-        "0.1.50": ["Fix crashing on breaking block in new world", "Fix crash on modded item overwriting an existing one"],
+        "0.1.50": [
+            "Fix crashing on breaking block in new world",
+            "Fix crash on modded item overwriting an existing one"
+        ],
         "0.1.49": [
             "Added item durability",
             "Furnaces now explode when smelting C4",
@@ -587,7 +618,9 @@
             "Fixed duplication bug when pressing drop item key in the crafting output",
             "Added a crash guard as a temporary fix until a rare bug with large amounts of meshes can be diagnosed"
         ],
-        "0.1.47": ["Fixed tools not working"],
+        "0.1.47": [
+            "Fixed tools not working"
+        ],
         "0.1.46": [
             "Added a furnace",
             "sub: Takes logs, planks, sticks, leaves, wooden crates, or magma as fuel",
@@ -643,7 +676,9 @@
             "Adjusted sprinting and walking speed",
             "Fixed a rare batch rendering crash"
         ],
-        "0.1.42": ["Fixed the stars spinning like crazy."],
+        "0.1.42": [
+            "Fixed the stars spinning like crazy."
+        ],
         "0.1.41": [
             "The currently selected item is now shown in your first person \"right hand\".",
             "Support non english world names",
@@ -712,7 +747,9 @@
             "Fixed bug with black screen on creating a new world",
             "Fixed bug where cycling item types of a missing block would cause a crash"
         ],
-        "0.1.35": ["Fixed bug where world would crash upon entering"],
+        "0.1.35": [
+            "Fixed bug where world would crash upon entering"
+        ],
         "0.1.34": [
             "Can now cycle block types in hotbar, e.g. blocks/slabs/stairs (set to the \" ` \" keybind by default)",
             "Can now set the save game directory with command line option -s or --save-location",
@@ -725,7 +762,10 @@
             "Space keybind is no longer blank when set",
             "More internal work on mobs"
         ],
-        "0.1.33": ["Small hotfix to fix crashing when opening a crate", "Various translation fixes"],
+        "0.1.33": [
+            "Small hotfix to fix crashing when opening a crate",
+            "Various translation fixes"
+        ],
         "0.1.32": [
             "Added the \"Dynamic Sky\" lighting option",
             "Added mouse keybinds for placing / breaking blocks",
@@ -738,9 +778,15 @@
             "Various translation additions",
             "Added health bar"
         ],
-        "0.1.31d": ["Unknown. MacOS test version"],
-        "0.1.31c": ["Unknown. MacOS test version"],
-        "0.1.31b": ["Unknown. MacOS test version"],
+        "0.1.31d": [
+            "Unknown. MacOS test version"
+        ],
+        "0.1.31c": [
+            "Unknown. MacOS test version"
+        ],
+        "0.1.31b": [
+            "Unknown. MacOS test version"
+        ],
         "0.1.31": [
             "Fixed placed blocks above y=256 not saving",
             "Fixed huge lag spike when quitting to main menu",
@@ -748,7 +794,9 @@
             "Fixed a crash with the batch renderer",
             "Various translation improvements"
         ],
-        "0.1.30": ["Hotfix to prevent worlds regenerating terrain and reverting placed blocks"],
+        "0.1.30": [
+            "Hotfix to prevent worlds regenerating terrain and reverting placed blocks"
+        ],
         "0.1.29": [
             "Added wooden crate",
             "Added gravel",
@@ -783,7 +831,9 @@
             "Added stairs for metal panels, aluminium panels, and packed lunar soil",
             "Added Serbian and other localisation fixes"
         ],
-        "0.1.26": ["Fixed glass slabs missing from the last update"],
+        "0.1.26": [
+            "Fixed glass slabs missing from the last update"
+        ],
         "0.1.25": [
             "Added stairs for seamless blocks",
             "Added block state generators, which can create variants of blocks at startup",
@@ -813,18 +863,42 @@
             "Macs can render the world now",
             "Fixed bug where blocks would go missing on a palette clean"
         ],
-        "0.1.20m": ["Unknown"],
-        "0.1.20l": ["Unknown"],
-        "0.1.20k": ["Unknown"],
-        "0.1.20j": ["Unknown"],
-        "0.1.20i": ["Unknown"],
-        "0.1.20h": ["Unknown"],
-        "0.1.20g": ["Unknown"],
-        "0.1.20f": ["Unknown"],
-        "0.1.20e": ["Unknown"],
-        "0.1.20d": ["Unknown"],
-        "0.1.20c": ["Unknown"],
-        "0.1.20b": ["Unknown"],
+        "0.1.20m": [
+            "Unknown"
+        ],
+        "0.1.20l": [
+            "Unknown"
+        ],
+        "0.1.20k": [
+            "Unknown"
+        ],
+        "0.1.20j": [
+            "Unknown"
+        ],
+        "0.1.20i": [
+            "Unknown"
+        ],
+        "0.1.20h": [
+            "Unknown"
+        ],
+        "0.1.20g": [
+            "Unknown"
+        ],
+        "0.1.20f": [
+            "Unknown"
+        ],
+        "0.1.20e": [
+            "Unknown"
+        ],
+        "0.1.20d": [
+            "Unknown"
+        ],
+        "0.1.20c": [
+            "Unknown"
+        ],
+        "0.1.20b": [
+            "Unknown"
+        ],
         "0.1.20": [
             "Adjusted water shader slightly",
             "Adjusted player physics in water",
@@ -855,9 +929,15 @@
             "Fixed worlds unloading incorrectly",
             "Triggers are now per-zone rather than per-game"
         ],
-        "0.1.17b blue": ["Testing version for the block catalog for MacOS"],
-        "0.1.17b red": ["Testing version for the block catalog for MacOS"],
-        "0.1.17": ["Fixed crash on world selection screen when world seed was not set"],
+        "0.1.17b blue": [
+            "Testing version for the block catalog for MacOS"
+        ],
+        "0.1.17b red": [
+            "Testing version for the block catalog for MacOS"
+        ],
+        "0.1.17": [
+            "Fixed crash on world selection screen when world seed was not set"
+        ],
         "0.1.16": [
             "Added world creation screen",
             "Can set world name, seed, and type",
@@ -870,7 +950,9 @@
             "Palette is automatically cleaned up when exceeding a soft limit of 128 or hard limit of 4096",
             "Major internal refactors to prepare for multiplayer"
         ],
-        "0.1.14b": ["Unknown"],
+        "0.1.14b": [
+            "Unknown"
+        ],
         "0.1.14": [
             "Added tickDelay to base:run_trigger",
             "Added debug crash button for an easy way to copy specs",
@@ -878,9 +960,15 @@
             "Fixed bug where missing blockstate id would crash when no default params specified",
             "Fixed open save directory bug on windows not catching AWTError"
         ],
-        "0.1.13d": ["Unknown"],
-        "0.1.13c": ["Unknown"],
-        "0.1.13b": ["Unknown"],
+        "0.1.13d": [
+            "Unknown"
+        ],
+        "0.1.13c": [
+            "Unknown"
+        ],
+        "0.1.13b": [
+            "Unknown"
+        ],
         "0.1.13": [
             "Texture atlas size + precision increase using texture buffers.",
             "Added Max FPS Slider",
@@ -890,11 +978,21 @@
             "Fixed bug where zeroed view direction would freeze game",
             "Meshes no longer add border for null blocks"
         ],
-        "0.1.12g": ["Adjusted atlas size for testing"],
-        "0.1.12f": ["UVs sent to the UBO are now checked for duplicates before expanding"],
-        "0.1.12e": ["Unknown"],
-        "0.1.12d": ["Unknown"],
-        "0.1.12c": ["Unknown"],
+        "0.1.12g": [
+            "Adjusted atlas size for testing"
+        ],
+        "0.1.12f": [
+            "UVs sent to the UBO are now checked for duplicates before expanding"
+        ],
+        "0.1.12e": [
+            "Unknown"
+        ],
+        "0.1.12d": [
+            "Unknown"
+        ],
+        "0.1.12c": [
+            "Unknown"
+        ],
         "0.1.12b": [
             "The textures atlas has been increased to 1024x, increasing the limit to 4096 different block textures (in 16x format)."
         ],
@@ -906,7 +1004,10 @@
             "Fixed swimming physics that behaved differently with different FPS",
             "Fixed being able to place or break blocks while paused"
         ],
-        "0.1.11": ["Reverted the atlas size change.", "Reverted the UV texture precision."],
+        "0.1.11": [
+            "Reverted the atlas size change.",
+            "Reverted the UV texture precision."
+        ],
         "0.1.10": [
             "Runtime texture atlas size increased from 256x to 1024x",
             "Increased UV texture precision for blocks from 7 bits to 32 bits per axis",
@@ -914,7 +1015,9 @@
             "Pressing ESC in the keybinds menu no longer leaves if keybind button is active",
             "Fixed freeze when creating world if render distance is invalid"
         ],
-        "0.1.9b": ["A test for the inventory and open save directory button."],
+        "0.1.9b": [
+            "A test for the inventory and open save directory button."
+        ],
         "0.1.9": [
             "Fixed vertical slab placement when not placing on the ground",
             "Fixed worlds not unloading on going to main menu",
@@ -936,17 +1039,29 @@
             "Introduced new block event action: base:explode",
             "Introduced new block event action: base:set_block_state_params"
         ],
-        "0.1.6b": ["Vsync is no longer activated by default. On/Off option should properly toggle Vsync now", "Partial MacOS Support"],
+        "0.1.6b": [
+            "Vsync is no longer activated by default. On/Off option should properly toggle Vsync now",
+            "Partial MacOS Support"
+        ],
         "0.1.6": [
             "Added mouse sensitivity, FOV, and render distance sliders",
             "More work done towards mac support + a warning message that macs are not yet supported",
             "Selecting a block now takes into account its shape, not just its position",
             "Introduced the catalogHidden field for block states, hiding them from the item catalog by default"
         ],
-        "0.1.5d": ["Changes to mesh and shader code specifically for MacOS"],
-        "0.1.5c": ["Fixed invisible world", "Partial MacOS Support"],
-        "0.1.5b": ["Partial MacOS Support"],
-        "0.1.5": ["Reverted the atlas size change"],
+        "0.1.5d": [
+            "Changes to mesh and shader code specifically for MacOS"
+        ],
+        "0.1.5c": [
+            "Fixed invisible world",
+            "Partial MacOS Support"
+        ],
+        "0.1.5b": [
+            "Partial MacOS Support"
+        ],
+        "0.1.5": [
+            "Reverted the atlas size change"
+        ],
         "0.1.4": [
             "Increased the runtime texture atlas size for blocks",
             "Block selection is now a wireframe",
@@ -955,7 +1070,10 @@
             "Keybinds should support non-QWERTY keyboards",
             "Fixed bug where multiple keybind buttons could be triggered at once"
         ],
-        "0.1.3": ["Introduced Block Events, Triggers and Actions", "Fixed a bug where one of the faces on the default cube was flipped"],
+        "0.1.3": [
+            "Introduced Block Events, Triggers and Actions",
+            "Fixed a bug where one of the faces on the default cube was flipped"
+        ],
         "0.1.2": [
             "Pressing screenshot will notify you the file name",
             "Removing mods no longer corrupts the world",
@@ -963,21 +1081,59 @@
             "Inventory no longer duplicates items across pages",
             "Improved the default mouse sensitivity for wide screen resolutions"
         ],
-        "0.1.1": ["Fixed the last item in the item catalog being unable to be added to the hotbar"],
-        "0.1.0": ["Adds packed lunar soil", "The blocks.png is overwritten at runtime, all block textures are separate files"],
-        "0.0.14": ["Fixes the last item in the catalog being omitted"],
-        "0.0.13": ["Fixed the inventory buttons not closing", "Fixed the water shader ruining the UI when escaped"],
-        "0.0.12": ["Fixed inventory slot bugs (unsure)"],
-        "0.0.11": ["Skipped version (It never existed)"],
-        "0.0.10": ["Inventory pages", "Light slabs"],
-        "0.0.9": ["Fixed the last-transparent-block bug"],
-        "0.0.8": ["Fixed the menu F1 bug", "Shaders can now use an #import preprocessor"],
-        "0.0.7": ["Fixed alt-tabbing ruining the player file"],
-        "0.0.6": ["Allows all assets to be loaded from the mods folder"],
-        "0.0.5": ["Fixed crouching on slabs"],
-        "0.0.4": ["Code cleanup", "Update chunk-water shader"],
-        "0.0.3": ["Adds more error catching/logging to code"],
-        "0.0.2": ["Fixed no block destruction cool-down while in the inventory", "Added basic mod support"],
-        "0.0.1": ["Game release"]
+        "0.1.1": [
+            "Fixed the last item in the item catalog being unable to be added to the hotbar"
+        ],
+        "0.1.0": [
+            "Adds packed lunar soil",
+            "The blocks.png is overwritten at runtime, all block textures are separate files"
+        ],
+        "0.0.14": [
+            "Fixes the last item in the catalog being omitted"
+        ],
+        "0.0.13": [
+            "Fixed the inventory buttons not closing",
+            "Fixed the water shader ruining the UI when escaped"
+        ],
+        "0.0.12": [
+            "Fixed inventory slot bugs (unsure)"
+        ],
+        "0.0.11": [
+            "Skipped version (It never existed)"
+        ],
+        "0.0.10": [
+            "Inventory pages",
+            "Light slabs"
+        ],
+        "0.0.9": [
+            "Fixed the last-transparent-block bug"
+        ],
+        "0.0.8": [
+            "Fixed the menu F1 bug",
+            "Shaders can now use an #import preprocessor"
+        ],
+        "0.0.7": [
+            "Fixed alt-tabbing ruining the player file"
+        ],
+        "0.0.6": [
+            "Allows all assets to be loaded from the mods folder"
+        ],
+        "0.0.5": [
+            "Fixed crouching on slabs"
+        ],
+        "0.0.4": [
+            "Code cleanup",
+            "Update chunk-water shader"
+        ],
+        "0.0.3": [
+            "Adds more error catching/logging to code"
+        ],
+        "0.0.2": [
+            "Fixed no block destruction cool-down while in the inventory",
+            "Added basic mod support"
+        ],
+        "0.0.1": [
+            "Game release"
+        ]
     }
 }
