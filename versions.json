@@ -7,6 +7,16 @@
         {
             "id": "0.4.10",
             "type": "alpha",
+            "releaseTime": 1748283426,
+            "server": {
+                "url": "https://raw.githubusercontent.com/CRModders/CosmicArchive/main/versions/alpha/0.4.10/server/Cosmic-Reach-Server-0.4.10.jar",
+                "sha256": "9629e947b64a20c2438cc5f69a5272b689c73e3df6c07c945bea19525998e9df",
+                "size": 14301532
+            }
+        },
+        {
+            "id": "0.4.10",
+            "type": "alpha",
             "releaseTime": 1748265338,
             "client": {
                 "url": "https://raw.githubusercontent.com/CRModders/CosmicArchive/main/versions/alpha/0.4.10/client/Cosmic-Reach-0.4.10.jar",
