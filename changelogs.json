@@ -148,15 +148,6 @@
             "Removed no clip hotkey",
             "Removed the naive renderer as an option",
             "Removed \"gravel caves\" from the Earth world generator, gravel spawns at the surface properly"
-        ],
-        "0.4.10": [
-            "Overhauled the cave system, adding multiple new types of caves!",
-            "Added Rubies, which can only be found in magma caverns",
-            "Increased ore frequency underground",
-            "Adjusted crafting recipes of laser gun and switch to require rubies",
-            "Removed ingots and basalt from all mob loot",
-            "Reduced chances of getting a weapon from Incinerators and Laser Interceptors",
-            "Fixed bug of falling into the ground when loading in the world"
         ]
     },
     "pre-alpha": {
