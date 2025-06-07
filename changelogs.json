@@ -159,7 +159,7 @@
             "Removed \"gravel caves\" from the Earth world generator, gravel spawns at the surface properly"
         ]
     },
-    "pre-alpha": {
+    "alpha": {
         "0.3.27": [
             "Added sun and moon for the dynamic sky",
             "Added laser splitter, which is another form of the laser emitter accessed with the cycle item hotkey",
