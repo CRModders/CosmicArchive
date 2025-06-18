@@ -12,6 +12,15 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
+## Alpha 0.4.10
+- Overhauled the cave system, adding multiple new types of caves!
+- Added Rubies, which can only be found in magma caverns
+- Increased ore frequency underground
+- Adjusted crafting recipes of laser gun and switch to require rubies
+- Removed ingots and basalt from all mob loot
+- Reduced chances of getting a weapon from Incinerators and Laser Interceptors
+- Fixed bug of falling into the ground when loading in the world
+
 ## Alpha 0.4.9
 - Added a new item: the flamethrower: which shoots fire on the ground that constantly damages mobs
 - Added a new mob: The Incinerator, an uncommon tough mob that shoots fire! When defeated, it may drop a flamethrower.
