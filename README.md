@@ -30,7 +30,7 @@ Links:
 - Improved missing block resolution
 - Fixed tooltips clipping in the crafting menu
 - Fix rare crash when leaves drop items
-- Upgraded the game to use Java 24, if you run the jar version of the game, please update your JDK: https://adoptium.net/temurin/releases/?version=24&arch=x64
+- Upgraded the game to use Java 24, **if you run the jar version of the game, please update your JDK**: https://adoptium.net/temurin/releases/?version=24&arch=x64
 
 ## Alpha 0.4.10
 - Overhauled the cave system, adding multiple new types of caves!
