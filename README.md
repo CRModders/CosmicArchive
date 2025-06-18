@@ -2,7 +2,8 @@
 
 > [!IMPORTANT]
 > Active development is moving. This repository may still receive infrequent
-updates for legacy toolings. [Visit the new repo.](https://github.com/PuzzlesHQ/CRArchive/releases)
+updates for legacy toolings.
+[Click here to visit the new repo.](https://github.com/PuzzlesHQ/CRArchive/releases)
 
 <hr>
 
