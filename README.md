@@ -12,6 +12,19 @@ An Archive Of Every Cosmic Reach Version
 
 # Changelogs
 
+## Alpha 0.4.11
+- Added Corn, Corn kernels, and Maize crops
+  - For now, corn kernels are dropped by interceptors (they no longer drop medkits!)
+- Added Sapphires, as a decoration block which the ore spawns near rubies in lava caves
+- Water now flows downwards and outwards
+- Block selection is now more clear in the dark
+- Pressing screenshot now copies the screenshot to your clipboard
+- Data modding: Added `base:update_src_block_state_arg` block event
+- Improved missing block resolution
+- Fixed tooltips clipping in the crafting menu
+- Fix rare crash when leaves drop items
+- Upgraded the game to use Java 24, if you run the jar version of the game, please update your JDK: https://adoptium.net/temurin/releases/?version=24&arch=x64
+
 ## Alpha 0.4.10
 - Overhauled the cave system, adding multiple new types of caves!
 - Added Rubies, which can only be found in magma caverns
