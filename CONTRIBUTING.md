@@ -43,11 +43,7 @@ client <abbr>JAR</abbr> and `cosmic-reach-server.zip` for the server
 
 [Cosmic Reach's itch.io page]: https://finalforeach.itch.io/cosmic-reach
 
-<img src=".github/download-itch.png"
-     title="Target Download Options"
-     alt="A screenshot of the correct download options for CosmicArchive:
-          cosmic-reach-jar.zip for the client JAR and cosmic-reach-server.zip
-          for the server JAR"/>
+<img src=".github/download-itch.png" title="Target Download Options" alt="A screenshot of the correct download options for CosmicArchive: cosmic-reach-jar.zip for the client JAR and cosmic-reach-server.zip for the server JAR"/>
 
 These are then placed in their respective folders:
 - `./versions/<phase>/<version>/client` for the client <abbr>JAR</abbr>
