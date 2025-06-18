@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> Active development is moving. This repository may still receive infrequent
+updates for legacy toolings.
+[Click here to visit the new repo.](https://github.com/PuzzlesHQ/CRArchive/releases)
+
+<hr>
+
 If you are adding a jar to the archive, then, please, upload the "universal" jar which you can take from here: 
 
 ![image](.github/universal-jar.png)
