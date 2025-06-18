@@ -9,7 +9,13 @@ updates for legacy toolings.
 
 An Archive Of Every Cosmic Reach Version
 
-<img src="/image.png"></img>
+<img src="/image.png" title="Permission from FinalForEach" alt="Screenshot from Discord on March 16, 2024 at 01:06 UTC. It qoutes.
+@Mr Zombii, continues &quot;But may I have permission to have a public archive for the time being for the unpaid
+versions.&quot;
+@FinalForEach, replies with &quot;I will give you permission for now only for pre-alpha, or until I set up an official
+source, which ever finishes sooner.&quot;"/>
+
+[View on Discord.](https://discord.com/channels/1198501071363002408/1216111883522801805/1218365000045826078)
 
 # Changelogs
 
