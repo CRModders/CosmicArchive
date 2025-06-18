@@ -1,4 +1,11 @@
 # CosmicArchive
+
+> [!IMPORTANT]
+> Active development is moving. This repository may still receive infrequent
+updates for legacy toolings. [Visit the new repo.](https://github.com/PuzzlesHQ/CRArchive/releases)
+
+<hr>
+
 An Archive Of Every Cosmic Reach Version
 
 <img src="/image.png"></img>
