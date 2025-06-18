@@ -38,7 +38,7 @@ integrated GPU testing and the multiplayer snapshots.
 
 The latest game <abbr title="Java Archive">JAR</abbr> can be found on [Cosmic
 Reach's itch.io page]. Be sure to download `cosmic-reach.jar.zip` to extract the
-client <abbr>JAR</abbr> and "cosmic-reach-server.zip` for the server
+client <abbr>JAR</abbr> and `cosmic-reach-server.zip` for the server
 <abbr>JAR</abbr>.
 
 [Cosmic Reach's itch.io page]: https://finalforeach.itch.io/cosmic-reach
