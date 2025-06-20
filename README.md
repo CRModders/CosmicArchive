@@ -1,8 +1,9 @@
 # CosmicArchive
 
 > [!IMPORTANT]
-> Active development is moving. This repository will no longer receive updates
-> and is still avaliable for legacy toolings.
+> This repositry may be outdated and will no longer receive updates.
+>
+> It is still avaliable for legacy toolings.
 [Click here to visit the new repo.](https://github.com/PuzzlesHQ/CRArchive/releases)
 
 <hr>
@@ -11,11 +12,8 @@ An Archive Of Every Cosmic Reach Version
 
 <img src="./image.png" title="Permission for Pre-Alpha Versions from FinalForEach" alt="Screenshot from Discord on March 16, 2024 at 01:06 UTC. @Mr Zombii, continues &quot;But may I have permission to have a public archive for the time being for the unpaid versions.&quot; @FinalForEach, replies with &quot;I will give you permission for now only for pre-alpha, or until I set up an official source, which ever finishes sooner.&quot;"/>
 
-<img src="https://raw.githubusercontent.com/PuzzlesHQ/CRArchive/refs/heads/main/permission_image_2.png" title="Permission for Alpha Versions from FinalForEach" alt="Screenshot from Discord. @CrabKing, asks on June 11, 2025 &quot;@FinalForEach can we still archive the game as we have just reread and it says 'only for pre-alpha, or until I set up an official source, which ever finishes sooner.' so can we continue as w are?&quot; @FinalForEach, responds on the 14th &quot;Continue for now yes.&quot;"/>
-
 Links:
- 1. Initial permission to archive pre-alpha versions. https://discord.com/channels/1198501071363002408/1216111883522801805/1218365000045826078>
- 2. Second permission to continue along with alpha versions. https://github.com/PuzzlesHQ/CRArchive/blob/main/permission_image_2.png
+ 1. Permission to archive. https://discord.com/channels/1198501071363002408/1216111883522801805/1218365000045826078>
 
 # Changelogs
 
